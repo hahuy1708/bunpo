@@ -14,7 +14,7 @@ DATA_PATHS = {
     "mondai8": PROJECT_ROOT / "data/mondai8/questions.json",
     "mondai9": PROJECT_ROOT / "data/mondai9/questions.json",
 }
-OUTPUT_PATH = PROJECT_ROOT / "output/JLPT_N2_Grammar.apkg"
+OUTPUT_PATH = PROJECT_ROOT / "output/JLPT_N2_文法.apkg"
 
 
 def load_questions(path: Path, parser):

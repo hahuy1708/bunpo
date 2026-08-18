@@ -30,6 +30,19 @@ Install dependencies:
 python -m pip install -r requirements.txt
 ```
 
+## Setup with Docker
+
+```cmd
+docker build -t bunpo .
+docker run --rm -v "%cd%\output:/app/output" bunpo
+```
+
+The `.apkg` file is written to `output/JLPT_N2_Grammar.apkg` on the host, same as running locally. Mount `data/` as well if you want to swap question files without rebuilding the image:
+
+```cmd
+docker run --rm -v "%cd%\data:/app/data" -v "%cd%\output:/app/output" bunpo
+```
+
 ## Build the Anki package
 
 ```cmd
