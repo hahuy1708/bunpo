@@ -14,6 +14,17 @@ def ordered_fragments(question: Mondai8Question) -> str:
     return " → ".join(question.choices[number] for number in question.answer_order)
 
 
+def formatted_explanation(explanation: str) -> str:
+    translation, separator, grammar = explanation.partition("文法:")
+    if not separator:
+        return escaped(explanation)
+    return (
+        f"<b>{escaped(translation[:translation.find(':') + 1])}</b> "
+        f"{escaped(translation[translation.find(':') + 1:].strip())}"
+        f"<br><br><b>文法:</b> {escaped(grammar.strip())}"
+    )
+
+
 def add_notes(deck: genanki.Deck, model: genanki.Model, questions: list[Mondai8Question]) -> None:
     for question in questions:
         note_text = (
@@ -21,6 +32,8 @@ def add_notes(deck: genanki.Deck, model: genanki.Model, questions: list[Mondai8Q
             f"<b>Correct order</b>: {escaped(ordered_fragments(question))}<br>"
             f"<b>★ answer</b>: {question.star_choice_number}"
         )
+        if question.explanation:
+            note_text += f"<br><br>{formatted_explanation(question.explanation)}"
         fields = [
             escaped(question.sentence_all_blanked),
             ",,".join(escaped(question.choices[str(number)]) for number in range(1, 5)),

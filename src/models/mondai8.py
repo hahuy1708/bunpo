@@ -12,6 +12,7 @@ class Mondai8Question:
     star_position_in_blanks: int
     star_choice_number: int
     full_sentence: str
+    explanation: str = ""
 
     @property
     def id(self) -> str:
@@ -20,7 +21,7 @@ class Mondai8Question:
     @classmethod
     def from_dict(cls, value: dict) -> "Mondai8Question":
         question_id = f"N2-M8-{value.get('period', '?')}-{value.get('no', '?')}"
-        required = ("index", "period", "no", "sentence_all_blanked", "choices", "answer_order", "star_position_in_blanks", "star_choice_number", "full_sentence")
+        required = ("index", "sentence_all_blanked", "choices", "answer_order", "star_position_in_blanks", "star_choice_number", "full_sentence")
         missing = [key for key in required if key not in value]
         if missing:
             raise ValueError(f"{question_id}: missing {', '.join(missing)}")
@@ -34,4 +35,15 @@ class Mondai8Question:
                 raise ValueError(f"{question_id}: {key} must be in 1..4")
         if not str(value["full_sentence"]).strip():
             raise ValueError(f"{question_id}: full_sentence is required")
-        return cls(**{key: value[key] for key in required})
+        return cls(
+            index=value["index"],
+            period=value.get("period", "?"),
+            no=value.get("no", 0),
+            sentence_all_blanked=value["sentence_all_blanked"],
+            choices=choices,
+            answer_order=value["answer_order"],
+            star_position_in_blanks=value["star_position_in_blanks"],
+            star_choice_number=value["star_choice_number"],
+            full_sentence=value["full_sentence"],
+            explanation=value.get("explanation", ""),
+        )
