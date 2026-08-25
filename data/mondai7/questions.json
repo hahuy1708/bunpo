@@ -1,11 +1,1302 @@
 [
-  {
-    "id": "N2-M7-2020.07-01",
-    "period": "2020.07",
-    "no": 1,
-    "question": "この問題は____ために存在します。",
-    "choices": ["テスト", "実験", "確認", "検査"],
-    "answer": 3,
-    "explanation": "テスト用のサンプルデータです。"
-  }
+    {
+        "id": "N2-M7-001",
+        "no": 1,
+        "question": "毎晩お酒を飲んで（　）、病気になりますよ。",
+        "choices": [
+            "ばかりに",
+            "ばかりは",
+            "ばかりいると",
+            "ばかりでなく"
+        ],
+        "answer": 3,
+        "explanation": "1. V・A・Na な・N +ばかりに: chỉ vì ~\n2. N+ばかりは: riêng N thì ~\n3. V てばかりいる： chỉ toàn là.../ suốt…/ hoài…\n4. N+ばかりでなく ~ も：không chỉ ~ mà còn"
+    },
+    {
+        "id": "N2-M7-002",
+        "no": 2,
+        "question": "雪国の人なら誰でもスキーが上手（　）、必ずしもそうではない。",
+        "choices": [
+            "というと",
+            "かというと",
+            "といったら",
+            "というなら"
+        ],
+        "answer": 2,
+        "explanation": "1,3. というと = といったら: nhắc đến A thì phải kể đến B\n(B là đặc trưng của A)\n２．A な・A い・V 普通 ＋かというと： Nếu nói là…thì cũng không hẳn\n4. というなら nếu nói là ~"
+    },
+    {
+        "id": "N2-M7-003",
+        "no": 3,
+        "question": "手術をしない（　）、命は助からないだろう。",
+        "choices": [
+            "ことには",
+            "うちに",
+            "ものには",
+            "もので"
+        ],
+        "answer": 1,
+        "explanation": "1. V ないことには： Nếu không… thì không\n2. うちに: Tranh thủ trong lúc ~ thì làm / Trong lúc ~\n3. ものには:\n4. もので: vì ~"
+    },
+    {
+        "id": "N2-M7-004",
+        "no": 4,
+        "question": "苦しい時に支えあう、それが家族という（　）。",
+        "choices": [
+            "ことだ",
+            "そうだ",
+            "ものだ",
+            "ようだ"
+        ],
+        "answer": 3,
+        "explanation": "1. ことだ: nên/ không nên ~\n2. そうだ: nghe nói ~\n3. V るものだ： Đương nhiên….\n4. ようだ: giống như ~"
+    },
+    {
+        "id": "N2-M7-005",
+        "no": 5,
+        "question": "信じ（　）ことに、日本の借金は800兆円以上もあるそうだ。",
+        "choices": [
+            "がたい",
+            "づらい",
+            "られる",
+            "やすい"
+        ],
+        "answer": 1,
+        "explanation": "1. V ます+がたい： Khó mà…(cảm xúc,ý chí,tinh thần)\n2. V ます+づらい: khó (làm thì làm được nhưng khó khăn, vất vả)\n4. V ます+やすい: dễ làm gì ~"
+    },
+    {
+        "id": "N2-M7-006",
+        "no": 6,
+        "question": "彼女は何年も悩んだ（　）、ついに離婚した。",
+        "choices": [
+            "あげく",
+            "ところで",
+            "ばかりに",
+            "からには"
+        ],
+        "answer": 1,
+        "explanation": "1.V たあげく： Cuối cùng thì…. (-)\n2. ところで: Nhân đây\n3. ばかりに: chỉ vì\n4. からには: một khi đã ~"
+    },
+    {
+        "id": "N2-M7-007",
+        "no": 7,
+        "question": "こんなに欠席が多くては、単位を落とし（　）。",
+        "choices": [
+            "がちだ",
+            "かねない",
+            "そうにない",
+            "てはいけない"
+        ],
+        "answer": 2,
+        "explanation": "1. がちだ: thường, hay ~\n2.V ます+かねない： Có khả năng…/Có thể sẽ…\n3. そうにない: không thể\n4. てはいけない: cấm làm gì"
+    },
+    {
+        "id": "N2-M7-008",
+        "no": 8,
+        "question": "時代の変化に（　）、日本人の食生活も変化してきた。",
+        "choices": [
+            "続いて",
+            "先立って",
+            "ともなって",
+            "つながって"
+        ],
+        "answer": 3,
+        "explanation": "2. N＋に先立って: trước khi làm ~\n3. N にともなって： Cùng với sự biến đổi của A thì B xảy ra\n4. つながって: dẫn đến~"
+    },
+    {
+        "id": "N2-M7-009",
+        "no": 9,
+        "question": "簡単な調べものならインターネットでできるので、図書館に行く（　）。",
+        "choices": [
+            "までもない",
+            "ほかはない",
+            "のみか",
+            "まいか"
+        ],
+        "answer": 1,
+        "explanation": "1.V るまでもない： Chưa tới mức phải…\n2. N + ほかはない : chính N\n3. N+のみ: chỉ có N\n4. (よ) うか ... まいか: ... Hay không ..."
+    },
+    {
+        "id": "N2-M7-010",
+        "no": 10,
+        "question": "ある程度の困難は予想していた（　）、ここまで大変だとは思わなかった。",
+        "choices": [
+            "ものの",
+            "だけに",
+            "からこそ",
+            "ことから"
+        ],
+        "answer": 1,
+        "explanation": "1. V る+ものの： Tuy là/ Mặc dù… Nhưng…\n2. だけに: chính vì ~ nên đương nhiên\n3. からこそ: chính vì\n4. ことから: vì ~ nên"
+    },
+    {
+        "id": "N2-M7-011",
+        "no": 11,
+        "question": "運動しないで食べて（　）と、体に悪いですよ。",
+        "choices": [
+            "ばかりでない",
+            "ばかりする",
+            "ばかりしている",
+            "ばかりいる"
+        ],
+        "answer": 4,
+        "explanation": "4. V てばかりいる： Chỉ toàn là…/ Suốt…"
+    },
+    {
+        "id": "N2-M7-012",
+        "no": 12,
+        "question": "やると決めた（　）、最後まであきらめずにやるべきだ。",
+        "choices": [
+            "からして",
+            "からには",
+            "ことから",
+            "ものだから"
+        ],
+        "answer": 2,
+        "explanation": "1. からして : Ngay từ N đã ~\n2. V る+からには ： Một khi đã…\n3. ことから: vì, bởi ...\n4. ものだから tại vì ~"
+    },
+    {
+        "id": "N2-M7-013",
+        "no": 13,
+        "question": "山に登るときは、自分の体力に（　）計画を立てましょう。",
+        "choices": [
+            "つれた",
+            "応じた",
+            "とっての",
+            "ともなった"
+        ],
+        "answer": 2,
+        "explanation": "1. につれた: A dẫn tới/ kéo theo B\n2. N に応じる：Tuỳ theo….\n3. にとって： đối với N\n4. にともなって: cùng với A thì B ~"
+    },
+    {
+        "id": "N2-M7-014",
+        "no": 14,
+        "question": "その新入社員は注意されると怒り出し、（　）は泣き出した。",
+        "choices": [
+            "そのうえ",
+            "それ以上",
+            "あげくのはてに",
+            "あまりに"
+        ],
+        "answer": 3,
+        "explanation": "1. そのうえ: ngoài ra..\n2. それ以上~ば： nếu hơn mức này thì ~\n3. あげくのはてに： Cuối cùng thì…\n4. あまりに: vì quá ~~"
+    },
+    {
+        "id": "N2-M7-015",
+        "no": 15,
+        "question": "雨が降らない（　）、毎日走るようにしています。",
+        "choices": [
+            "限り",
+            "うちに",
+            "限りに",
+            "ことには"
+        ],
+        "answer": 1,
+        "explanation": "1. V ない限り： nếu không~\n2. ないうちに: Trong lúc chưa, thì làm ~\n3. N を限りに: đến hết N\n4. ないことには：nếu không V1 thì không V2"
+    },
+    {
+        "id": "N2-M7-016",
+        "no": 16,
+        "question": "事情があった（　）、遅れるなら連絡ぐらいしてほしい。",
+        "choices": [
+            "にせよ",
+            "につき",
+            "につけ",
+            "せいで"
+        ],
+        "answer": 1,
+        "explanation": "1.V るにせよ： Cho dù…/ Ngay cả…\n2. につき: Vì (dùng cho thông báo) / Cứ mỗi (+lượng từ)\n3. につけ: Hễ ~ thì\n4. せいで: Do/ Tại (-)"
+    },
+    {
+        "id": "N2-M7-017",
+        "no": 17,
+        "question": "選手たちは雨の中、泥どろ（　）になって戦った。",
+        "choices": [
+            "がち",
+            "ぎみ",
+            "だらけ",
+            "みたい"
+        ],
+        "answer": 3,
+        "explanation": "1. V ますがち： thường, hay ~\n2. V ますぎみ: hơi ~\n3. N+だらけ： Đầy…/ Toàn là…\n4. N みたい: giống như ~"
+    },
+    {
+        "id": "N2-M7-018",
+        "no": 18,
+        "question": "工事の開始（　）、付近の住民に向けて説明会が開かれた。",
+        "choices": [
+            "に先立ち",
+            "に沿って",
+            "もかまわず",
+            "をかねて"
+        ],
+        "answer": 1,
+        "explanation": "1.V する/N+に先立ち： Trước khi…\n2. に沿って: dọc theo, men theo\n3. N+もかまわず: bất chấp N, không quan tâm N"
+    },
+    {
+        "id": "N2-M7-019",
+        "no": 19,
+        "question": "このような難病が手術で治るとは、医学の進歩に感謝（　）。",
+        "choices": [
+            "しかねない",
+            "してならない",
+            "するわけにはいかない",
+            "せずにはいられない"
+        ],
+        "answer": 4,
+        "explanation": "1. かねない: có thể V\n2. わけにはいかない: không thể làm ~\n4.V ないずにいられない： Không thể không…"
+    },
+    {
+        "id": "N2-M7-020",
+        "no": 20,
+        "question": "ちょうど食事が出来上がった（　）父が帰ってきた。",
+        "choices": [
+            "ところが",
+            "ところに",
+            "にあたり",
+            "最中に"
+        ],
+        "answer": 2,
+        "explanation": "1. ところが: nhưng\n2. V るところに： Đúng lúc/ Trong lúc…thì…\n3. にあたり: nhân dịp (+)\n4. 最中に đúng vào lúc"
+    },
+    {
+        "id": "N2-M7-021",
+        "no": 21,
+        "question": "キャンペーン期間中に（　）、入会金が無料となります。",
+        "choices": [
+            "限り",
+            "わたり",
+            "際して",
+            "ついて"
+        ],
+        "answer": 3,
+        "explanation": "1. N に限り：N là trường hợp đặc biệt\n2. にわたり：Trong suốt..., trên toàn...\n3. に際して ： Khi ～\n４．について： Về ~"
+    },
+    {
+        "id": "N2-M7-022",
+        "no": 22,
+        "question": "おもしろい（　）、この魚はオスが子育てをするのだそうだ。",
+        "choices": [
+            "ことに",
+            "とおり",
+            "ばかりに",
+            "ものの"
+        ],
+        "answer": 1,
+        "explanation": "1. ことに ： nhấn mạnh cảm xúc ~\n3. ばかりに: chỉ vì\n4. ものの: tuy ~ nhưng"
+    },
+    {
+        "id": "N2-M7-023",
+        "no": 23,
+        "question": "このまま温暖化が進むと、その国は海中に沈む（　）そうだ。",
+        "choices": [
+            "かねない",
+            "も同然だ",
+            "はずがない",
+            "おそれがある"
+        ],
+        "answer": 4,
+        "explanation": "1. かねない: có thể\n2. も同然だ: gần như là ~\n3. はずがない: không có chuyện\n4. V るおそれがある： E rằng…/ Sợ rằng…"
+    },
+    {
+        "id": "N2-M7-024",
+        "no": 24,
+        "question": "このような賞がいただけたのは、これまでの皆様のご支援のおかげに（　）。",
+        "choices": [
+            "かまいません",
+            "かかわりません",
+            "ほかなりません",
+            "ほかはありません"
+        ],
+        "answer": 3,
+        "explanation": "1. かまいません: không bận tâm\n2. かかわりません: bất kể, không phân biệt\n3. ほかならない： Chính là...\n4. ほかはありません: đành phải~"
+    },
+    {
+        "id": "N2-M7-025",
+        "no": 25,
+        "question": "地図がわかりにくかったが、電話で聞き（　）何とか店に行くことができた。",
+        "choices": [
+            "つつ",
+            "かけて",
+            "がてら",
+            "ながらも"
+        ],
+        "answer": 1,
+        "explanation": "1. V ますつつ ： Vừa…vừa/ Tuy…nhưng…\n2. V ますかけ: làm dở\n3. V ますがてら : tiện thể, nhân thể\n4. ながらも: tuy...nhưng"
+    },
+    {
+        "id": "N2-M7-026",
+        "no": 26,
+        "question": "私有地（　）、関係者以外立ち入り禁止。",
+        "choices": [
+            "こそ",
+            "につき",
+            "につけ",
+            "のうえ"
+        ],
+        "answer": 2,
+        "explanation": "1. N + こそ: chính vì ~\n2. N ＋ につき：vì ( thông báo ) ~\n3. V る につけ: lúc nào cũng…/ cứ mỗi khi…\n4. N + のうえ: trên phương diện…/ về mặt…/ theo…"
+    },
+    {
+        "id": "N2-M7-027",
+        "no": 27,
+        "question": "人はそれぞれ意見が違う（　）よく話し合うことが必要なのだ。",
+        "choices": [
+            "からこそ",
+            "からして",
+            "からいって",
+            "からといって"
+        ],
+        "answer": 1,
+        "explanation": "1. A な・A い・V 普通 + からこそ: chính vì ~\n2. N + からして: ngay cả\n3. N + からいって: xét về\n4. A な・A い・V 普通 + からといって: dẫu nói là … nhưng không hẳn"
+    },
+    {
+        "id": "N2-M7-028",
+        "no": 28,
+        "question": "お客様のご希望（　）、デザインや色の変更も可能です。",
+        "choices": [
+            "ままに",
+            "次第で",
+            "ばかりで",
+            "ものなら"
+        ],
+        "answer": 2,
+        "explanation": "1. ままに: để nguyên, giữ nguyên\n2. V ます+次第: tuỳ thuộc vào/ ngay sau khi\n3. A な・A い・V る+ばかりで: chỉ vì\n4. V られる + ものなら: nếu như…/ nếu có thể thì…"
+    },
+    {
+        "id": "N2-M7-029",
+        "no": 29,
+        "question": "工業が発展したおかげで、生活はどれほど便利になった（　）。",
+        "choices": [
+            "ことか",
+            "ことだ",
+            "ものだ",
+            "ものか"
+        ],
+        "answer": 1,
+        "explanation": "1. ことか: chỉ tại, chỉ vì, chính vì,…\n2. ことだ: nên\n3. ものだ: chuyện đương nhiên , chân lí\n4. ものか：nhất quyết không"
+    },
+    {
+        "id": "N2-M7-030",
+        "no": 30,
+        "question": "今ある資料だけでは、この結果が絶対に正しいとは（　）。",
+        "choices": [
+            "言いかねない",
+            "言い切れない",
+            "言うに違いない",
+            "言わないことはない"
+        ],
+        "answer": 2,
+        "explanation": "1. V ます ＋ かねない: có thể/có nguy cơ\n2. V ます + 切れない: không thể …. hoàn toàn\n3. V 普通 +に違いない：chắc chắn\n4. V ない＋ことはない: không phải là không"
+    },
+    {
+        "id": "N2-M7-031",
+        "no": 31,
+        "question": "この大型店がオープン（　）、近くの道路はいつも車でいっぱいだ。",
+        "choices": [
+            "して以来",
+            "して以上",
+            "したまま",
+            "したばかり"
+        ],
+        "answer": 1,
+        "explanation": "1. Ｖて + 以来： kể từ sau khi …. suốt\n2. V 普通 + 以上： một khi đã… thì … (からには）\n3. V た・A い・Na な・N の + まま： cứ để nguyên\n4. V た + ばかり： vừa mới"
+    },
+    {
+        "id": "N2-M7-032",
+        "no": 32,
+        "question": "去年の大会では準優勝だったが、今年こそ絶対に優勝（　）。",
+        "choices": [
+            "しかねない",
+            "してみせる",
+            "することか",
+            "するものか"
+        ],
+        "answer": 2,
+        "explanation": "1. Ｖてみせる： Làm cho xem\n2. かねない： Không thể\n3. ことか： Thật là.. Biết bao\n4. ものか: Nhất định không"
+    },
+    {
+        "id": "N2-M7-033",
+        "no": 33,
+        "question": "ご契約に（　）、運転免許証やパスポートなど身分を証明するものが必要です。",
+        "choices": [
+            "応じては",
+            "際しては",
+            "こたえては",
+            "わたっては"
+        ],
+        "answer": 2,
+        "explanation": "1. N + に応じて：dựa vào/ tùy theo\n2. N + に際して：khi ( hướng dẫn)\n3. N + にこたえて：đáp ứng/ đáp lại\n4. N + わたって： suốt(thời gian, không gian)"
+    },
+    {
+        "id": "N2-M7-034",
+        "no": 34,
+        "question": "対応は遅いし情報は不正確出し、こんな旅行会社、二度と利用（　）。",
+        "choices": [
+            "するものか",
+            "しないもの",
+            "しないものだ",
+            "しようじゃないか"
+        ],
+        "answer": 1,
+        "explanation": "1. V る・A い・Na な + ものか：nhất định không\n2. V 普通 ＋ もの: bởi vì/ do\n3. V る・ない+ ものだ： nên / không nên\n4. V 意向形 ＋ じゃないか： hãy cùng( lời kêu gọi)"
+    },
+    {
+        "id": "N2-M7-035",
+        "no": 35,
+        "question": "便利さ（　）都心のほうがいいが、郊外のほうが家賃が安い。",
+        "choices": [
+            "からして",
+            "からには",
+            "ことから",
+            "からいえば"
+        ],
+        "answer": 4,
+        "explanation": "1. N + からして: xét từ (điểm nhỏ) -> phán đoán tổng thể\n2. V 普通 ＋ からには： một khi đã…thì sẽ\n3. ことから： vì\n4. N + からいえば： đứng trên …/ từ góc độ…"
+    },
+    {
+        "id": "N2-M7-036",
+        "no": 36,
+        "question": "うまいやり方なんてありません。ただ目の前のことを一生懸命やる（　）です。",
+        "choices": [
+            "限り",
+            "のみ",
+            "ほど",
+            "まま"
+        ],
+        "answer": 2,
+        "explanation": "1. V 普通 ＋ 限り： chừng nào mà…\n2. ただ。。。N + のみ: chỉ\n3. V る/ない + ほど： đến mức\n4. V た・A い・Na な・N の + まま： cứ để nguyên"
+    },
+    {
+        "id": "N2-M7-037",
+        "no": 37,
+        "question": "資源の開発によって、この国も徐々に豊かに（　）。",
+        "choices": [
+            "なりつつある",
+            "なってみせる",
+            "なるかいがある",
+            "ならざるをえない"
+        ],
+        "answer": 1,
+        "explanation": "1. 徐々＋V ます ＋ つつある: ngày càng\n2. V て + みせる： làm cho xem\n３. V る/た + かいがある： đáng\n４. V ない + ざるをえない： đành phải làm"
+    },
+    {
+        "id": "N2-M7-038",
+        "no": 38,
+        "question": "この公園は災害時（　）避難場所に指定されています。",
+        "choices": [
+            "による",
+            "にあたる",
+            "における",
+            "にかける"
+        ],
+        "answer": 3,
+        "explanation": "1. N + による： bởi\n2. N + にあたる： tương ứng với\n3. N + における： tại / ở / trong / vào\n4. V ます + かける： đang làm giữa chừng"
+    },
+    {
+        "id": "N2-M7-039",
+        "no": 39,
+        "question": "自然破壊が進む（　）、自然保護の活動も増えている。",
+        "choices": [
+            "一方で",
+            "につけ",
+            "わりに",
+            "ばかりに"
+        ],
+        "answer": 1,
+        "explanation": "1. V る ・ N の + 一方で： một mặt thì… mặt khác thì…\n2. V る + につけ： cứ mỗi lần…là lại…\n3. V 普通 ・ A い ・ Na ・ N の + わりに： dù/ tuy nhưng\n4. V 普通 ・A い・Na な・N + ばかりに: chính vì…"
+    },
+    {
+        "id": "N2-M7-040",
+        "no": 40,
+        "question": "言葉の選び方は難しい。間違えると誤解され（　）。",
+        "choices": [
+            "かねない",
+            "そうもない",
+            "てたまらない",
+            "ずにはいられない"
+        ],
+        "answer": 1,
+        "explanation": "1. V ます + かねない： có thể sẽ\n2. V ます + そうもない： khó có thể\n3. A い くて ・ Na で + たまらない： rất, không chịu nổi\n4. V ない + ずにはいられない： không thể không"
+    },
+    {
+        "id": "N2-M7-041",
+        "no": 41,
+        "question": "これだけ事故が起きてもまだ酒を飲んで運転する人の気持ちが理解（　）。",
+        "choices": [
+            "しかねる",
+            "するものか",
+            "せざるをえない",
+            "するわけではない"
+        ],
+        "answer": 1,
+        "explanation": "1. V ます + かねる： khó mà làm/ không thể làm\n2. V る・A い・Na な + ものか： nhất định không\n3. V ない + ざるをえない： đành phải làm\n4. V 普通 + わけではない： kKhông hẳn là"
+    },
+    {
+        "id": "N2-M7-042",
+        "no": 42,
+        "question": "政府は方針を決定する（　）、全国の病院にアンケートを実施した。",
+        "choices": [
+            "以上",
+            "以上は",
+            "にあたり",
+            "において"
+        ],
+        "answer": 3,
+        "explanation": "1. V 普通 + 以上/以上は： : một khi đã … thì chắc chắn\n3. V る ・ Ｎ + にあたり： khi mà/ vào lúc\n4. N + において： tại / trong / ở"
+    },
+    {
+        "id": "N2-M7-043",
+        "no": 43,
+        "question": "たとえ失敗した（　）、やってみることに価値かちがある。",
+        "choices": [
+            "せいで",
+            "だけに",
+            "からには",
+            "としても"
+        ],
+        "answer": 4,
+        "explanation": "1. V 普通 ・ A い ・ Na な ・ N の + せいで: bởi/ do\n2. V 普通 ・ A い ・ Na な/Ｎ + だけに: vì … nên\n3. V 普通 + からには： một khi đã … thì sẽ\n4. V 普通 ・ A い ・ Na/N だ + としても：cho dù"
+    },
+    {
+        "id": "N2-M7-044",
+        "no": 44,
+        "question": "今は辛くても、この経験はいつか必ず役に立つ（　）。",
+        "choices": [
+            "にすぎない",
+            "に違いない",
+            "とは限らない",
+            "よりほかない"
+        ],
+        "answer": 2,
+        "explanation": "1. V る/た ・ A い ・ Na ・ N + にすぎない： chỉ là\n2. V 普通 ・ A い ・ Na ・ N + に違いない： chắc là vì\n3. 必ずしも + V 普通 + とは限らない：không nhất thiết\n4. V る + よりほかない： chỉ còn cách là"
+    },
+    {
+        "id": "N2-M7-045",
+        "no": 45,
+        "question": "暗くならないうちに、散歩（　）買い物に行ってこよう。",
+        "choices": [
+            "つつ",
+            "ついでに",
+            "について",
+            "ながら"
+        ],
+        "answer": 2,
+        "explanation": "1. V ます + つつ： vừa ~ vừa\n2. V ます ・ N の + ついでに： nhân tiện/ tiện thể\n3. について： về ….\n4. V ます/ない ・ A い ・ Na/N + ながら： tuy ~ nhưng"
+    },
+    {
+        "id": "N2-M7-046",
+        "no": 46,
+        "question": "面接を希望される方は、電話連絡（　）、履歴書をお送りください。",
+        "choices": [
+            "の上",
+            "の上に",
+            "の末",
+            "の末に"
+        ],
+        "answer": 1,
+        "explanation": "1. N + の上： sau khi (tính điều kiện )…\n2. V 普通 ・ A い ・ Na な ・ N + の上に： hơn thế nữa\n3-4. V た ・ N + の末： sau một thời gian dài ---"
+    },
+    {
+        "id": "N2-M7-047",
+        "no": 47,
+        "question": "こんな作品が作れる彼は天才だ。発想（　）普通の人とは違っている。",
+        "choices": [
+            "からして",
+            "はおろか",
+            "を問わず",
+            "をはじめ"
+        ],
+        "answer": 1,
+        "explanation": "1. N + からして: ngay cả / xét về góc độ\n2. N + はおろか: đừng nói…ngay cả\n3. N + を問わず: không kể / bất kể\n4. N + をはじめ: trước tiên là"
+    },
+    {
+        "id": "N2-M7-048",
+        "no": 48,
+        "question": "その事件について私が知っている（　）のことは、もう全部話しました。",
+        "choices": [
+            "ほど",
+            "まま",
+            "限り",
+            "ばかり"
+        ],
+        "answer": 3,
+        "explanation": "1. V る/ない ・ A い ・ N + ほど： đến mức\n2. V た・A い・Na な・N の + まま： cứ để nguyên\n3. V 普通 ＋ 限り： trong phạm vi (mình biết)…\n4. N + ばかり: chỉ"
+    },
+    {
+        "id": "N2-M7-049",
+        "no": 49,
+        "question": "インターネットを使えば、外出する（　）買い物ができる。",
+        "choices": [
+            "ことに",
+            "ことなく",
+            "どころか",
+            "どころじゃなく"
+        ],
+        "answer": 2,
+        "explanation": "1. V た ・ A い ・ Na + ことに : thật là…\n2. V る + ことなく: không… / mà không…\n3. V る ・ A い ・ Na な ・ N + どころか: ngay cả…cũng không\n4. V る/ている ・ N + どころじゃなく : không phải là lúc"
+    },
+    {
+        "id": "N2-M7-050",
+        "no": 50,
+        "question": "この漫画は一度読み始めたら最後まで（　）ほどおもしろい。",
+        "choices": [
+            "読みきれない",
+            "読まずにいられない",
+            "読むどころじゃない",
+            "読まないことはない"
+        ],
+        "answer": 2,
+        "explanation": "1. V ます + きれない： không thể.. hoàn toàn\n2. V ない + ずにいられない：không thể không\n3. V る/ている ・ N + どころじゃなく : không phải là lúc\n4. V ない・A いくない・Na/N ではない + ことはない: không phải là không"
+    },
+    {
+        "id": "N2-M7-051",
+        "no": 51,
+        "question": "黙っている（　）必ず市も賛成しているとは限らない。",
+        "choices": [
+            "からして",
+            "ものだから",
+            "わけだから",
+            "からといって"
+        ],
+        "answer": 4,
+        "explanation": "1. N + からして: Ngay cả / xét về góc độ\n2. V 普通・A い・Na/N な + ものだから: Tại vì…\n3. V 普通 + わけだから: Vì nên…đương nhiên là\n4. V 普通+ からといって: Cho dù…cũng không"
+    },
+    {
+        "id": "N2-M7-052",
+        "no": 52,
+        "question": "許可をもらって（　）、この建物の撮影はできません。",
+        "choices": [
+            "以来",
+            "までも",
+            "からすると",
+            "からでないと"
+        ],
+        "answer": 4,
+        "explanation": "1. Ｖて + 以来： Suốt từ sau khi\n2. V て + までも： Dù cho đến mức…thì\n3. N + からすると: Nhìn từ góc độ\n4. V て + からでないと： Nếu không…thì không"
+    },
+    {
+        "id": "N2-M7-053",
+        "no": 53,
+        "question": "時間を守らないあの人（　）、きっと今日も遅れてくるだろう。",
+        "choices": [
+            "次第で",
+            "と思うと",
+            "ばかりに",
+            "のことだから"
+        ],
+        "answer": 4,
+        "explanation": "1. N + 次第で: Tùy vào / dựa vào\n2. V た + と思うと: Vừa mới…thì đã\n3. V 普通 ・A い・Na な・N + ばかりに: Chính vì…\n4. N + のことだから: Ai chứ…thì…/ Gì chứ…thì…"
+    },
+    {
+        "id": "N2-M7-054",
+        "no": 54,
+        "question": "この食堂は、安い（　）、おいしいと評判だ。",
+        "choices": [
+            "上で",
+            "上に",
+            "上は",
+            "上を"
+        ],
+        "answer": 2,
+        "explanation": "1. 上で : Sau khi\n2. 上に: Nghĩa là\n3. 上は: Một khi đã…"
+    },
+    {
+        "id": "N2-M7-055",
+        "no": 55,
+        "question": "桜の季節になると、ふるさとの家から学校まで続く桜並木なみきが（　）。",
+        "choices": [
+            "思い出される",
+            "思い出している",
+            "思い出さないはずがない",
+            "思い出さないものか"
+        ],
+        "answer": 1,
+        "explanation": "1. V 受身\n2. V ている: Đang ~\n3. V 普通 ・ A い ・ Na な ・ N の + はずがない: Lẽ nào\n4. V ない + ものか: Nhất định không"
+    },
+    {
+        "id": "N2-M7-056",
+        "no": 56,
+        "question": "数十年前に書かれた経営書が、近年再び注目され（　）。",
+        "choices": [
+            "気味だ",
+            "つつある",
+            "てならない",
+            "たばかりだ"
+        ],
+        "answer": 2,
+        "explanation": "1. V ます/ N+気味: Có vẻ\n2. V ます ＋ つつある: Ngày càng, dần dần\n3. V て ・ A いくて ・ Na/N で + ならない: Không chịu nổi\n4. V た + ばかりだ: Vừa mới"
+    },
+    {
+        "id": "N2-M7-057",
+        "no": 57,
+        "question": "コンサートの後、感動（　）涙が止まらなかった。",
+        "choices": [
+            "あまり",
+            "ままに",
+            "のあまり",
+            "のままに"
+        ],
+        "answer": 3,
+        "explanation": "1. V る ・ Na な ・ N の + あまり: Quá\n2. V る + ままに: Theo như\n3. V 普通・A いさ・Na な・Ｎの + あまり: Vì quá ~\n4. N の + ままに: Cứ để nguyên"
+    },
+    {
+        "id": "N2-M7-058",
+        "no": 58,
+        "question": "高校の卒業式で別れた（　）、彼とは10年以上会っていない。",
+        "choices": [
+            "きり",
+            "しか",
+            "だけ",
+            "のみ"
+        ],
+        "answer": 1,
+        "explanation": "1. V た ・ きり: Kể từ sau khi/Chỉ, chỉ có\n2. N + しか + V ない： Chỉ\n3. N + だけ: Chỉ\n4. N + のみ： Chỉ"
+    },
+    {
+        "id": "N2-M7-059",
+        "no": 59,
+        "question": "この音楽を聞くと、踊り（　）んです。",
+        "choices": [
+            "出しがちになる",
+            "出すに違いない",
+            "出すとは限らない",
+            "出さずにはいられない"
+        ],
+        "answer": 4,
+        "explanation": "1. V ます + がち：Hay, thường\n2. V 普通 ・ A い ・ Na ・ N + に違いない： Chắc là vì\n3. 必ずしも + V 普通 + とは限らない：Không hẳn\n4. V ない + ずにはいられない： Không thể không"
+    },
+    {
+        "id": "N2-M7-060",
+        "no": 60,
+        "question": "A：弟さんの就職、決まりました。 B：（　）、なかなか難しいみたいで...",
+        "choices": [
+            "そこで",
+            "それが",
+            "それなら",
+            "それはそうと"
+        ],
+        "answer": 2,
+        "explanation": "1. そこで: Vì thế/ do đó\n2. それが: Thực ra là\n3. それなら: Nếu vậy thì\n4. それはそうと: Nhân tiện đây"
+    },
+    {
+        "id": "N2-M7-061",
+        "no": 61,
+        "question": "海外旅行に行ったら、挨拶（　）はその国の言葉でしたいと思う。",
+        "choices": [
+            "ほど",
+            "まで",
+            "ぐらい",
+            "ばかり"
+        ],
+        "answer": 3,
+        "explanation": "1. V る/ない ・ A い ・ N + ほど： Đến mức\n2. V る ・ N + まで: Đến tận\n3. V 普通・A い・Na な・Ｎ + ぐらい： Chí ít\n4. N + ばかり: Chỉ toàn là"
+    },
+    {
+        "id": "N2-M7-062",
+        "no": 62,
+        "question": "寝坊した！もうどんなに急いでも、あの飛行機には間に合い（　）。",
+        "choices": [
+            "がたい",
+            "にくい",
+            "かねない",
+            "っこない"
+        ],
+        "answer": 4,
+        "explanation": "1. V ます + がたい: Khó mà..\n2. V ます + にくい： Khó làm gì\n3. V ます + かねない： Có thể sẽ\n4. V ます + っこない: Tuyệt đối không"
+    },
+    {
+        "id": "N2-M7-063",
+        "no": 63,
+        "question": "そんな服装で面接に行ったのなら、落とされ（　）。",
+        "choices": [
+            "得ない",
+            "て当然だ",
+            "てならない",
+            "て仕方がない"
+        ],
+        "answer": 2,
+        "explanation": "1. V ます + 得ない: Không thể/ không có khả năng\n2. V て・A いくて・Na で ＋ 当然だ: Đương nhiên\n3. て+ ならない: Rất ( Không chịu nổi)\n4. て ＋ 仕方がない： Rất (Không thể chịu nổi)"
+    },
+    {
+        "id": "N2-M7-064",
+        "no": 64,
+        "question": "敵に1点も与えず守り（　）ゴールキーパーがMVPをとった。",
+        "choices": [
+            "終えた",
+            "かけた",
+            "込んだ",
+            "抜いた"
+        ],
+        "answer": 4,
+        "explanation": "1. 終えた： Hoàn thành\n2. かけた： Làm dở dang\n3. 込んだ： Cho vào trong\n4. 抜いた： Làm tới cùng"
+    },
+    {
+        "id": "N2-M7-065",
+        "no": 65,
+        "question": "行けるかどうかわからないけれど、もし行ける（　）9時ごろになります。",
+        "choices": [
+            "と思えば",
+            "としたら",
+            "かと思ったら",
+            "としてみたら"
+        ],
+        "answer": 2,
+        "explanation": "1. V た + と思えば： Vừa mới\n2. V 普通・A い・Na・Ｎ + としたら： Giả sử/ nếu cho rằng\n3. V た + かと思ったら： Ngay khi, vừa mới…thì đã…"
+    },
+    {
+        "id": "N2-M7-066",
+        "no": 66,
+        "question": "私は魚が嫌いです。焼いてある（　）、生で食べるなんてできません。",
+        "choices": [
+            "ならまだしも",
+            "にしてみたら",
+            "からといって",
+            "とはいうものの"
+        ],
+        "answer": 1,
+        "explanation": "1. N + なら/は +まだしも： Nếu … thì còn chấp nhận được\n2. N + にしてみたら: Đối với … thì\n3. Thể thông thường + からといって: Cho dù…cũng không\n4. Thể thông thường・N + とはいうものの: Tuy…nhưng"
+    },
+    {
+        "id": "N2-M7-067",
+        "no": 67,
+        "question": "まだ17歳（　）高校生が、今年の小説大賞を受賞した。",
+        "choices": [
+            "とする",
+            "ばかりの",
+            "にすぎない",
+            "に相違ない"
+        ],
+        "answer": 3,
+        "explanation": "1. Thể thông thường + とする: Giả định rằng\n2. V る・A い + ばかりの ＋ N: Có thể nói là, như là\n3. V る/た ＋ にすぎない： Chỉ là…không hơn không kém\n4. V 普通・A い・Na・N + に相違ない： Chắc chắn"
+    },
+    {
+        "id": "N2-M7-068",
+        "no": 68,
+        "question": "今日は娘の合格発表なので、朝から気になって仕事（　）ではない。",
+        "choices": [
+            "ぐらい",
+            "どころ",
+            "ばかり",
+            "というもの"
+        ],
+        "answer": 2,
+        "explanation": "１. V 普通・A い・Na な・Ｎ + ぐらい： Đến mức\n２. どころではない：Không phải lúc để..\n３. N + ばかり: Chỉ toàn là\n４. N + というものではない： Không nên"
+    },
+    {
+        "id": "N2-M7-069",
+        "no": 69,
+        "question": "弟は父親の帰りを持ち（　）、駅まで迎えに行った。",
+        "choices": [
+            "ぐらい",
+            "どころ",
+            "ばかり",
+            "というもの"
+        ],
+        "answer": 3,
+        "explanation": "1. V ます + つつ： Vừa ~ vừa\n2. N +にかけて は： Khi nói đến lĩnh vực… ai là nhất\n3. Ｎ + かねて： Không thể\n4. V ます・A い・Na な + すぎて: Quá"
+    },
+    {
+        "id": "N2-M7-070",
+        "no": 70,
+        "question": "事故を起こしてから、二度とバイクには（　）と決めた。",
+        "choices": [
+            "乗らざる",
+            "乗るまい",
+            "乗りかねる",
+            "乗り得ない"
+        ],
+        "answer": 2,
+        "explanation": "1. なざる： ない\n2. V る・Na/N + まい: Nhất định không\n3. V ます + かねる: Không thể/ khó có thể\n4. V ます + 得ない: Không thể/ không có khả năng"
+    },
+    {
+        "id": "N2-M7-071",
+        "no": 71,
+        "question": "新しい店長の方針（　）、店を改装することにした。",
+        "choices": [
+            "に沿って",
+            "に対して",
+            "を中心に",
+            "を通して"
+        ],
+        "answer": 1,
+        "explanation": "1. N ＋ に沿って： Thường, hay\n2. に対して： Đối với\n3. を中心に： Lấy.. Làm trung tâm\n4. を通して: Thông qua…"
+    },
+    {
+        "id": "N2-M7-072",
+        "no": 72,
+        "question": "学生の皆さん！もっと政治に関心を（　）！",
+        "choices": [
+            "持とうとしませんか",
+            "持とうではありませんか",
+            "持たないものでしょうか",
+            "持たないではいられませんか"
+        ],
+        "answer": 2,
+        "explanation": "2. V 意向形 + ではありません： Hãy cùng\n3. V ない + ものでしょうか： Không thể … sao\n4. V ない + ではいられません: Không thể không"
+    },
+    {
+        "id": "N2-M7-073",
+        "no": 73,
+        "question": "当ホテルでは季節を（　）、すばらしい景色とお料理をお楽しみいただきます。",
+        "choices": [
+            "問わず",
+            "かかわらず",
+            "かまわず",
+            "のみならず"
+        ],
+        "answer": 1,
+        "explanation": "1. N + を問わず： Bất kể\n2. Ｖる／ない・Ｎ ＋ にかかわらず： Bất kể\n3. V るの・Ｎ ＋ かまわず： Chẳng quan tâm đến\n4. V 普通・A い・Na・N + のみならず : Không chỉ … mà còn"
+    },
+    {
+        "id": "N2-M7-074",
+        "no": 74,
+        "question": "緊急（　）、この番号を電話してください。",
+        "choices": [
+            "上は",
+            "次第",
+            "にあたり",
+            "の際は"
+        ],
+        "answer": 4,
+        "explanation": "1. Ｖる・ない・Ｎである ＋ 上は： Vì … nên đương nhiên\n2.Ｖます ＋ 次第：Ngay sau khi … thì\n3. V る・Ｎ ＋ にあたり: Khi mà/ vào lúc\n4. V る・Ｎの ＋ の際は： Trong trường hợp/ lúc"
+    },
+    {
+        "id": "N2-M7-075",
+        "no": 75,
+        "question": "久しぶりに会ったのだから,時間が許す（　）ゆっくり話しましょう。",
+        "choices": [
+            "限り",
+            "くらい",
+            "にかけて",
+            "にわったて"
+        ],
+        "answer": 1,
+        "explanation": "1. V 普通 ＋ 限り： Trong phạm vi, giới hạn\n2. V 普通・A い・Na な・Ｎ + くらい： Đến mức\n3. N ・ A いさ ＋ にかけて： Về mặt, nói về\n4. N + にわったて: Suốt"
+    },
+    {
+        "id": "N2-M7-076",
+        "no": 76,
+        "question": "奥様が無事に退院された（　）。おめでとうございます。",
+        "choices": [
+            "とか",
+            "にて",
+            "など",
+            "まで"
+        ],
+        "answer": 1,
+        "explanation": "1. Thể thông thường + とか: Nghe nói là\n2. N + にて: Tại/ bằng\n3. N や N など: Chẳng hạn … như\n4. V る・Ｎ + まで: Cho đến khi"
+    },
+    {
+        "id": "N2-M7-077",
+        "no": 77,
+        "question": "4月（　）、まだ寒い日もある。",
+        "choices": [
+            "としては",
+            "のうえでは",
+            "ならでは",
+            "とはいうものの"
+        ],
+        "answer": 4,
+        "explanation": "1. N + としては： Với tư cách\n2. N + のうえでは： Trên phương diện\n3. N + ならでは: Chỉ có thể là\n4. Thể thường ・ Ｎ+ とはいうものの ： Tuy … nhưng"
+    },
+    {
+        "id": "N2-M7-078",
+        "no": 78,
+        "question": "そのような一方的な要求は受け入れ（　）。",
+        "choices": [
+            "がたい",
+            "がいがない",
+            "ざるを得ない",
+            "てたまらない"
+        ],
+        "answer": 1,
+        "explanation": "1. V ます+がたい: Khó mà\n2. V ます ＋ がいがない: Không đáng\n3. V ない + ざるを得ない： Đành phải làm\n4. Ｖて + たまらない: Rất"
+    },
+    {
+        "id": "N2-M7-079",
+        "no": 79,
+        "question": "あせる気持ちもわかるが、今は落ち着いて、無理はしない（　）。",
+        "choices": [
+            "ことか",
+            "ことだ",
+            "ほどだ",
+            "ものか"
+        ],
+        "answer": 2,
+        "explanation": "1. Từ nghi vấn + V る／た・A い・Na な + ことか： Thật là\n2. V る／ない + ことだ： nên/ không nên\n3. V る/ない ・ A い ・ N + ほど： Đến mức\n4. V る・A い・Na/N な + ものか: Nhất định không"
+    },
+    {
+        "id": "N2-M7-080",
+        "no": 80,
+        "question": "買える（　）買いたいが、今の給料では何年かかっても無理だ。",
+        "choices": [
+            "あまり",
+            "だけに",
+            "からこそ",
+            "ものなら"
+        ],
+        "answer": 4,
+        "explanation": "1. V る ・ Na な ・ N の + あまり: Quá ~\n2. V る ・ A い ・ Na な ・ N + だけに: Chính vì … nên\n3. A な・A い・V 普通 + からこそ: Chính vì ~\n4. Vkhả năng + ものなら: Nếu có thể … thì"
+    },
+    {
+        "id": "N2-M7-081",
+        "no": 81,
+        "question": "自分が悪かったと思ったのなら、さっさと謝る（　）。",
+        "choices": [
+            "ことだ",
+            "わけだ",
+            "ようだ",
+            "ふりだ"
+        ],
+        "answer": 1,
+        "explanation": "1. V る／ない + ことだ： nên/ không nên\n2. V 普通・A い・Na な ＋ わけだ： lý do là/ tức là\n3. N の + ようだ：giống như ~\n4. N (khoảng thời gian) + ふりだ: sau (mới lại)"
+    },
+    {
+        "id": "N2-M7-082",
+        "no": 82,
+        "question": "値段は（　）、デザインや性能はこの製品が一番いい。",
+        "choices": [
+            "おろか",
+            "問わず",
+            "ともかく",
+            "なおさら"
+        ],
+        "answer": 3,
+        "explanation": "1. N + おろか: Đừng nói…ngay cả\n2. N + 問わず: Bất kể\n3. N は + ともかく： Khoan bàn tới…\n4. だけに + なおさら： Chính vì…nên lại càng…"
+    },
+    {
+        "id": "N2-M7-083",
+        "no": 83,
+        "question": "手伝いもしない人が、文句ばかり言う（　）よ。",
+        "choices": [
+            "ものじゃない",
+            "わけじゃない",
+            "よりほかない",
+            "というものだ"
+        ],
+        "answer": 1,
+        "explanation": "1. V る + ものじゃない: Không nên làm gì\n2. Thể thường + わけじゃない: Không hẳn là\n3. V る + よりほかない: Không còn cách nào khác\n4. Thể thường + というものだ: Thật là"
+    },
+    {
+        "id": "N2-M7-084",
+        "no": 84,
+        "question": "外国人（　）日本人書けない漢字はたくさんある。",
+        "choices": [
+            "に限らず",
+            "にしたって",
+            "に反して",
+            "にもかかわらず"
+        ],
+        "answer": 1,
+        "explanation": "1. N + に限らず: Không chỉ…mà còn …\n2. にしたって＝ても： Dẫu cho…thì vẫn…\n3. N + に反して: Trái với…\n4. Thể thông thường + にもかかわらず: ＝のに…"
+    },
+    {
+        "id": "N2-M7-085",
+        "no": 85,
+        "question": "山に登るときは、自分の体力に（　）計画を立てましょう",
+        "choices": [
+            "連れて",
+            "応じて",
+            "とっての",
+            "伴う"
+        ],
+        "answer": 2,
+        "explanation": "1.に連れて： A -> kéo theo B\n2. に応じて: Ứng với\n3. にとって: Đối với\n4. に伴う： Cùng với"
+    },
+    {
+        "id": "N2-M7-086",
+        "no": 86,
+        "question": "団体旅行ではなく、妻と二人（　）で南の島にでも行きたい。",
+        "choices": [
+            "限り",
+            "きり",
+            "以内",
+            "なら"
+        ],
+        "answer": 1,
+        "explanation": "1. きり: Chỉ\n2. 限り: Trong phạm vi\n3. 以内：Trong...\n4. なら: Nếu.."
+    },
+    {
+        "id": "N2-M7-087",
+        "no": 87,
+        "question": "さすが高級旅館（　）、料理もサービスも満足のいくものだった。",
+        "choices": [
+            "にしては",
+            "のわりに",
+            "ばかり",
+            "だけあって"
+        ],
+        "answer": 4,
+        "explanation": "1. N + にしては: Đối với…\n2. Thể thường ・ N の割に: Tuy … nhưng\n3. N + ばかり: Chỉ toàn\n4. Vthể thường + だけあって： Quả đúng là…"
+    },
+    {
+        "id": "N2-M7-088",
+        "no": 88,
+        "question": "この数年、A国の物価は上がり続ける（　）",
+        "choices": [
+            "一方",
+            "次第だ",
+            "ことか",
+            "ものか"
+        ],
+        "answer": 1,
+        "explanation": "1. V る・A い・Na/N である + 一方： Càng ngày càng\n2. N + 次第だ: Tùy theo/ tùy thuộc\n3. Từ để hỏi + V る/V た・A い・Na な + ことか: Thật là\n4. V る・A い・Na + ものか: Nhất định không"
+    },
+    {
+        "id": "N2-M7-089",
+        "no": 89,
+        "question": "ほしかったギターがやっと手に入って、うれしくて（　）。",
+        "choices": [
+            "ほかない",
+            "ことだから",
+            "ことには",
+            "たまらない"
+        ],
+        "answer": 4,
+        "explanation": "1. Thể thông thường + ほかない: Chỉ còn cách…\n2. ことだから: Bởi vì\n3. ことには: Việc…\n4. V て・A いくて・Na/N で + たまらない: Rất"
+    },
+    {
+        "id": "N2-M7-090",
+        "no": 90,
+        "question": "簡単そうに見えるけど難しいんだよ。やれる（　）やってごらん。",
+        "choices": [
+            "ことか",
+            "からには",
+            "どころか",
+            "もんなら"
+        ],
+        "answer": 4,
+        "explanation": "1. Từ để hỏi + V る/V た・A い・Na な + ことか: Thật là\n2. Thể thường + からには: Một khi đã … thì sẽ\n3. Thể thường + どころか: Ngay cả … cũng không\n4. Thể khả năng + もんなら: Nếu có thể … thì"
+    },
+    {
+        "id": "N2-M7-091",
+        "no": 91,
+        "question": "引っ越しの日は、雨が降る（　）道が込む（　）で大変だった。",
+        "choices": [
+            "やら/やら",
+            "につけ/につけ",
+            "にせよ/にせよ",
+            "にしても/にしても"
+        ],
+        "answer": 1,
+        "explanation": "1. V る・A い・Ｎ + やら 〜 やら: Nào là… Nào là\n2. V る・A い + につけ ~ につけ: Dù là\n3. V る/ない ・ N + にせよ ~ にせよ: Dù là … hay …\n4. V る/ない ・ N +にしても ~にしても: Cho dù là… hay… thì"
+    },
+    {
+        "id": "N2-M7-092",
+        "no": 92,
+        "question": "いくつも賞を取った（　）、ストーリーも映像もすばらしい映画だった。",
+        "choices": [
+            "ばかりか",
+            "ばかりに",
+            "からして",
+            "だけあって"
+        ],
+        "answer": 4,
+        "explanation": "1. Thể thường・Na な・Ｎ + ばかりか: Không chỉ…mà còn\n2. Thể thường・A い・Na な・N + ばかりに: Chỉ tại\n3. N + からして: Xét từ góc độ\n4. Vthể thường + だけあって： Quả đúng là…"
+    },
+    {
+        "id": "N2-M7-093",
+        "no": 93,
+        "question": "商店街の再開発（　）意見が対立している。",
+        "choices": [
+            "に応じて",
+            "にこたえて",
+            "に反して",
+            "をめぐって"
+        ],
+        "answer": 4,
+        "explanation": "1. N + に応じて: Dựa vào/ tùy theo\n2. N + にこたえて: Đáp ứng\n3. N + に反して: Trái với…\n4. N + をめぐって: Xoay quanh"
+    },
+    {
+        "id": "N2-M7-094",
+        "no": 94,
+        "question": "電車の中で昔の友達に会い、感激の（　）大声を出してしまった。",
+        "choices": [
+            "あまり",
+            "ばかり",
+            "最中に",
+            "ほどに"
+        ],
+        "answer": 1,
+        "explanation": "1. V る・Na な/N の + あまり: Quá\n2. N + ばかり: Chỉ toàn\n3. V ている・N の + 最中に: Đúng lúc đang…\n4. V る/ない・A い・N + ほどに: Đến mức"
+    },
+    {
+        "id": "N2-M7-095",
+        "no": 95,
+        "question": "悪天候（　）大勢の客がパンダを見ようと来園した。",
+        "choices": [
+            "に反して",
+            "を問わず",
+            "のみならず",
+            "にもかかわらず"
+        ],
+        "answer": 4,
+        "explanation": "1. N + に反して: Trái với…\n2. N + を問わず: Bất kể\n3. Thể thường・Na/N である + のみならず: Không chỉ\n4. Thể thường + にもかかわらず: Cho dù là…"
+    },
+    {
+        "id": "N2-M7-096",
+        "no": 96,
+        "question": "子供たちは服が汚れる（　）夢中で遊んでいる。",
+        "choices": [
+            "ついでに",
+            "どころか",
+            "のはおろか",
+            "のもかまわず"
+        ],
+        "answer": 4,
+        "explanation": "1. V る・た・Ｎ の + ついでに: Nhân tiện\n2. Thể thường + どころか: Ngay cả … cũng không\n3. N + のはおろか: Đừng nói … ngay cả\n4. V 普通・Ｎ + のもかまわず: Mặc kệ"
+    },
+    {
+        "id": "N2-M7-097",
+        "no": 97,
+        "question": "先ほどの説明（　）質問がある方は、手を挙げてください。",
+        "choices": [
+            "において",
+            "に対して",
+            "にあたって",
+            "にわたって"
+        ],
+        "answer": 2,
+        "explanation": "1. N + において: Tại, ở, trong\n2. N + に対して: Đối với\n3. V る・Ｎ + にあたって: Nhân dịp\n4. N + にわたって: Suốt"
+    },
+    {
+        "id": "N2-M7-098",
+        "no": 98,
+        "question": "この近くには、コンビニ（　）自動販売機さえない。",
+        "choices": [
+            "にしろ",
+            "よりほか",
+            "というより",
+            "はもとより"
+        ],
+        "answer": 4,
+        "explanation": "1. V・Na/N である + にしろ: Cho dù\n2. V る + よりほか: Chỉ còn cách\n3. Thể thường/N + というより: Nói đúng hơn là\n4. N + はもとより: 〜 Thì là tất nhiên rồi"
+    },
+    {
+        "id": "N2-M7-099",
+        "no": 99,
+        "question": "人間が200歳まで生きるなんて（　）よ。",
+        "choices": [
+            "ありえない",
+            "ありがたい",
+            "ありかねる",
+            "ありようがない"
+        ],
+        "answer": 1,
+        "explanation": "1. V ます + えない: Không thể\n2. V ます + がたい: Khó mà\n3. V ます + かねる: Khó có thể\n4. V ます + ようがない: Không có cách nào mà"
+    },
+    {
+        "id": "N2-M7-100",
+        "no": 100,
+        "question": "このセーターは、千円（　）品質がとてもいい。",
+        "choices": [
+            "としては",
+            "にしては",
+            "にかけては",
+            "についは"
+        ],
+        "answer": 2,
+        "explanation": "1. N + としては: Với tư cách\n2. V 普通・Ｎ + にしては: Tuy … nhưng\n3. N・A いさ + にかけては: Về mặt"
+    }
 ]
