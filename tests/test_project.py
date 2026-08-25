@@ -1,5 +1,7 @@
+import contextlib
 import unittest
 import json
+import os
 import sqlite3
 import tempfile
 import zipfile
@@ -7,6 +9,7 @@ from pathlib import Path
 
 from src.generators.common import note_with_guid
 from src.generators.mondai8 import ordered_fragments
+from src.config.ids import ROOT_DECK_NAME
 from src.models.mondai7 import Mondai7Question
 from src.models.mondai8 import Mondai8Question
 from src.models.mondai9 import Mondai9Question
@@ -42,13 +45,24 @@ class ValidationTests(unittest.TestCase):
             package = build(Path(directory) / "test.apkg")
             self.assertGreater(package.stat().st_size, 0)
             with zipfile.ZipFile(package) as archive:
-                archive.extract("collection.anki2", directory)
-            database = sqlite3.connect(Path(directory) / "collection.anki2")
-            decks = json.loads(database.execute("select decks from col").fetchone()[0])
-            models = json.loads(database.execute("select models from col").fetchone()[0])
-            self.assertEqual({deck["name"] for deck in decks.values() if deck["name"].startswith("JLPT N2 Grammar")}, {"JLPT N2 Grammar::Mondai 7", "JLPT N2 Grammar::Mondai 8", "JLPT N2 Grammar::Mondai 9"})
+                with archive.open("collection.anki2") as collection_file:
+                    with tempfile.NamedTemporaryFile(suffix=".anki2", delete=False) as temp_collection:
+                        temp_collection.write(collection_file.read())
+                        collection_path = Path(temp_collection.name)
+            try:
+                with sqlite3.connect(collection_path) as database:
+                    decks = json.loads(database.execute("select decks from col").fetchone()[0])
+                    models = json.loads(database.execute("select models from col").fetchone()[0])
+            finally:
+                with contextlib.suppress(FileNotFoundError, PermissionError):
+                    os.unlink(collection_path)
+            expected_decks = {
+                f"{ROOT_DECK_NAME}::Mondai 7",
+                f"{ROOT_DECK_NAME}::Mondai 8",
+                f"{ROOT_DECK_NAME}::Mondai 9",
+            }
+            self.assertEqual({deck["name"] for deck in decks.values() if deck["name"].startswith(ROOT_DECK_NAME)}, expected_decks)
             self.assertEqual({model["name"] for model in models.values()}, {"JLPT N2 M7 MCQ", "JLPT N2 M8 Ordering", "JLPT N2 M9 Context MCQ"})
-            database.close()
 
 
 if __name__ == "__main__":
