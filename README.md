@@ -63,6 +63,17 @@ Import that `.apkg` file into Anki. Its templates are embedded in the package, s
 python -m unittest discover -s tests -v
 ```
 
+## Kanji（N2 漢字 550）
+
+
+データは `data/kanji_550/questions.json` のフラット形式を使用します。ビルドには次を実行してください。
+
+```cmd
+python -m src.kanji
+```
+
+出力先は `output/N2_漢字_550.apkg` です。文法パッケージには影響しません。
+
 ## Data files
 
 Add or replace data only in these files:

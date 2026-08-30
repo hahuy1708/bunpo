@@ -1,0 +1,5122 @@
+[
+  {
+    "id": "N2K-CH01-M1-01",
+    "chapter": 1,
+    "kanji_range": "001-072",
+    "mondai": 1,
+    "no": 1,
+    "sentence": "仮病で仕事を休むのはよくないと思う。",
+    "underline": "仮病",
+    "choices": [
+      "かびょう",
+      "けびょう",
+      "かりびょう",
+      "かんびょう"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH01-M1-02",
+    "chapter": 1,
+    "kanji_range": "001-072",
+    "mondai": 1,
+    "no": 2,
+    "sentence": "あの親子は性格が似ている。",
+    "underline": "似ている",
+    "choices": [
+      "にている",
+      "きている",
+      "まねている",
+      "ついている"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH01-M1-03",
+    "chapter": 1,
+    "kanji_range": "001-072",
+    "mondai": 1,
+    "no": 3,
+    "sentence": "先生に「偉い」とほめられた。",
+    "underline": "偉い",
+    "choices": [
+      "かるい",
+      "うまい",
+      "かたい",
+      "えらい"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH01-M1-04",
+    "chapter": 1,
+    "kanji_range": "001-072",
+    "mondai": 1,
+    "no": 4,
+    "sentence": "対象の方には、記念品をお配りします。",
+    "underline": "対象",
+    "choices": [
+      "たいぞう",
+      "たいぞ",
+      "たいしょう",
+      "たいしょ"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH01-M1-05",
+    "chapter": 1,
+    "kanji_range": "001-072",
+    "mondai": 1,
+    "no": 5,
+    "sentence": "明日10時にそちらに伺います。",
+    "underline": "伺います",
+    "choices": [
+      "はらいます",
+      "うかがいます",
+      "そいます",
+      "かまいます"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH01-M1-06",
+    "chapter": 1,
+    "kanji_range": "001-072",
+    "mondai": 1,
+    "no": 6,
+    "sentence": "一度でいいから立派な家に住んでみたい。",
+    "underline": "立派",
+    "choices": [
+      "りつは",
+      "りっは",
+      "りぱ",
+      "りっぱ"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH01-M1-07",
+    "chapter": 1,
+    "kanji_range": "001-072",
+    "mondai": 1,
+    "no": 7,
+    "sentence": "店長に休みたいと言ったら、渋い顔をされた。",
+    "underline": "渋い",
+    "choices": [
+      "しぶい",
+      "こわい",
+      "つらい",
+      "にがい"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH01-M1-08",
+    "chapter": 1,
+    "kanji_range": "001-072",
+    "mondai": 1,
+    "no": 8,
+    "sentence": "父も兄も漁師をしている。",
+    "underline": "漁師",
+    "choices": [
+      "ぎょし",
+      "りょし",
+      "りょうし",
+      "ぎょうし"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH01-M1-09",
+    "chapter": 1,
+    "kanji_range": "001-072",
+    "mondai": 1,
+    "no": 9,
+    "sentence": "熱くて濃いコーヒーを飲むと目が覚める。",
+    "underline": "濃い",
+    "choices": [
+      "にがい",
+      "こい",
+      "つよい",
+      "うすい"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH01-M1-10",
+    "chapter": 1,
+    "kanji_range": "001-072",
+    "mondai": 1,
+    "no": 10,
+    "sentence": "この国は夏は湿気が多くて、暑い。",
+    "underline": "湿気",
+    "choices": [
+      "しめけ",
+      "しっき",
+      "しつけ",
+      "しっけ"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH01-M2-01",
+    "chapter": 1,
+    "kanji_range": "001-072",
+    "mondai": 2,
+    "no": 1,
+    "sentence": "健康のために、ときどき体をのばしましょう。",
+    "underline": "のばしましょう",
+    "choices": [
+      "延ばしましょう",
+      "伸ばしましょう",
+      "似ばしましょう",
+      "促ばしましょう"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH01-M2-02",
+    "chapter": 1,
+    "kanji_range": "001-072",
+    "mondai": 2,
+    "no": 2,
+    "sentence": "ぶっきょうが日本に伝わったのは、1400年以上前のことだ。",
+    "underline": "ぶっきょう",
+    "choices": [
+      "依教",
+      "偶教",
+      "像教",
+      "仏教"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH01-M2-03",
+    "chapter": 1,
+    "kanji_range": "001-072",
+    "mondai": 2,
+    "no": 3,
+    "sentence": "友達の話に耳をかたむける。",
+    "underline": "かたむける",
+    "choices": [
+      "傾ける",
+      "頃ける",
+      "像ける",
+      "象ける"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH01-M2-04",
+    "chapter": 1,
+    "kanji_range": "001-072",
+    "mondai": 2,
+    "no": 4,
+    "sentence": "かいとう機能が付いている電子レンジを買う。",
+    "underline": "かいとう",
+    "choices": [
+      "解凍",
+      "解冷",
+      "解滴",
+      "解浴"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH01-M2-05",
+    "chapter": 1,
+    "kanji_range": "001-072",
+    "mondai": 2,
+    "no": 5,
+    "sentence": "不況で父の会社がとうさんした。",
+    "underline": "とうさん",
+    "choices": [
+      "衣産",
+      "依産",
+      "到産",
+      "倒産"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH01-M2-06",
+    "chapter": 1,
+    "kanji_range": "001-072",
+    "mondai": 2,
+    "no": 6,
+    "sentence": "地球の平均気温がじょじょに上がってきている。",
+    "underline": "じょじょ",
+    "choices": [
+      "段々",
+      "諸々",
+      "徐々",
+      "各々"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH01-M2-07",
+    "chapter": 1,
+    "kanji_range": "001-072",
+    "mondai": 2,
+    "no": 7,
+    "sentence": "この駅は週末になるとこんざつしやすい。",
+    "underline": "こんざつ",
+    "choices": [
+      "渋雑",
+      "混雑",
+      "浅雑",
+      "沈雑"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH01-M2-08",
+    "chapter": 1,
+    "kanji_range": "001-072",
+    "mondai": 2,
+    "no": 8,
+    "sentence": "5年間日本にたいざいしたことがある。",
+    "underline": "たいざい",
+    "choices": [
+      "混在",
+      "洪在",
+      "滞在",
+      "渋在"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH01-M2-09",
+    "chapter": 1,
+    "kanji_range": "001-072",
+    "mondai": 2,
+    "no": 9,
+    "sentence": "この国では18歳未満の飲酒はほうりつで禁止されている。",
+    "underline": "ほうりつ",
+    "choices": [
+      "法律",
+      "法往",
+      "法御",
+      "法得"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH01-M2-10",
+    "chapter": 1,
+    "kanji_range": "001-072",
+    "mondai": 2,
+    "no": 10,
+    "sentence": "上司の指示にしたがって仕事をする。",
+    "underline": "したがって",
+    "choices": [
+      "街って",
+      "徒って",
+      "従って",
+      "律って"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH01-M3-01",
+    "chapter": 1,
+    "kanji_range": "001-072",
+    "mondai": 3,
+    "no": 1,
+    "sentence": "清潔",
+    "underline": null,
+    "choices": [
+      "せいけい",
+      "せいけつ",
+      "せけい",
+      "せけつ"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH01-M3-02",
+    "chapter": 1,
+    "kanji_range": "001-072",
+    "mondai": 3,
+    "no": 2,
+    "sentence": "仲間",
+    "underline": null,
+    "choices": [
+      "ちゅうかん",
+      "ちょうかん",
+      "なかま",
+      "なかば"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH01-M3-03",
+    "chapter": 1,
+    "kanji_range": "001-072",
+    "mondai": 3,
+    "no": 3,
+    "sentence": "俳優",
+    "underline": null,
+    "choices": [
+      "はいゆう",
+      "はいゆ",
+      "かいゆう",
+      "かいゆ"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH01-M3-04",
+    "chapter": 1,
+    "kanji_range": "001-072",
+    "mondai": 3,
+    "no": 4,
+    "sentence": "偶然",
+    "underline": null,
+    "choices": [
+      "くぜん",
+      "くうせん",
+      "ぐせん",
+      "ぐうぜん"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH01-M3-05",
+    "chapter": 1,
+    "kanji_range": "001-072",
+    "mondai": 3,
+    "no": 5,
+    "sentence": "運河",
+    "underline": null,
+    "choices": [
+      "うんか",
+      "うんが",
+      "うんかわ",
+      "うんがわ"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH01-M3-06",
+    "chapter": 1,
+    "kanji_range": "001-072",
+    "mondai": 3,
+    "no": 6,
+    "sentence": "浮気",
+    "underline": null,
+    "choices": [
+      "ふき",
+      "ふけ",
+      "うわき",
+      "うわけ"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH01-M3-07",
+    "chapter": 1,
+    "kanji_range": "001-072",
+    "mondai": 3,
+    "no": 7,
+    "sentence": "行儀",
+    "underline": null,
+    "choices": [
+      "きょうぎ",
+      "ぎょうぎ",
+      "こうぎ",
+      "こうき"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH01-M3-08",
+    "chapter": 1,
+    "kanji_range": "001-072",
+    "mondai": 3,
+    "no": 8,
+    "sentence": "投票",
+    "underline": null,
+    "choices": [
+      "とうひょう",
+      "どうひょう",
+      "とうぴょう",
+      "どうぴょう"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH01-M3-09",
+    "chapter": 1,
+    "kanji_range": "001-072",
+    "mondai": 3,
+    "no": 9,
+    "sentence": "催促",
+    "underline": null,
+    "choices": [
+      "すいそく",
+      "すいぞく",
+      "さいそく",
+      "さいぞく"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH01-M3-10",
+    "chapter": 1,
+    "kanji_range": "001-072",
+    "mondai": 3,
+    "no": 10,
+    "sentence": "祭り",
+    "underline": null,
+    "choices": [
+      "となり",
+      "まわり",
+      "かおり",
+      "まつり"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH01-M4-01",
+    "chapter": 1,
+    "kanji_range": "001-072",
+    "mondai": 4,
+    "no": 1,
+    "sentence": "もくひょうを達成する。",
+    "underline": "もくひょう",
+    "choices": [
+      "目票",
+      "目標",
+      "目祭",
+      "目要"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH01-M4-02",
+    "chapter": 1,
+    "kanji_range": "001-072",
+    "mondai": 4,
+    "no": 2,
+    "sentence": "せんたくものを干す。",
+    "underline": "せんたくもの",
+    "choices": [
+      "洗激物",
+      "洗潔物",
+      "洗演物",
+      "洗濯物"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH01-M4-03",
+    "chapter": 1,
+    "kanji_range": "001-072",
+    "mondai": 4,
+    "no": 3,
+    "sentence": "シャワーをあびる。",
+    "underline": "あびる",
+    "choices": [
+      "浴びる",
+      "溶びる",
+      "源びる",
+      "清びる"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH01-M4-04",
+    "chapter": 1,
+    "kanji_range": "001-072",
+    "mondai": 4,
+    "no": 4,
+    "sentence": "体温をはかる。",
+    "underline": "はかる",
+    "choices": [
+      "量る",
+      "図る",
+      "測る",
+      "計る"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH01-M4-05",
+    "chapter": 1,
+    "kanji_range": "001-072",
+    "mondai": 4,
+    "no": 5,
+    "sentence": "税金をちょうしゅうする。",
+    "underline": "ちょうしゅう",
+    "choices": [
+      "徴収",
+      "回収",
+      "吸収",
+      "領収"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH01-M4-06",
+    "chapter": 1,
+    "kanji_range": "001-072",
+    "mondai": 4,
+    "no": 6,
+    "sentence": "あせをかく。",
+    "underline": "あせ",
+    "choices": [
+      "泥",
+      "湾",
+      "涙",
+      "汗"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH01-M4-07",
+    "chapter": 1,
+    "kanji_range": "001-072",
+    "mondai": 4,
+    "no": 7,
+    "sentence": "お湯をわかす。",
+    "underline": "わかす",
+    "choices": [
+      "溶かす",
+      "沸かす",
+      "滴かす",
+      "漫かす"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH01-M4-08",
+    "chapter": 1,
+    "kanji_range": "001-072",
+    "mondai": 4,
+    "no": 8,
+    "sentence": "日がしずむ。",
+    "underline": "しずむ",
+    "choices": [
+      "沈む",
+      "浮む",
+      "添む",
+      "渉む"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH01-M4-09",
+    "chapter": 1,
+    "kanji_range": "001-072",
+    "mondai": 4,
+    "no": 9,
+    "sentence": "まんがを読む。",
+    "underline": "まんが",
+    "choices": [
+      "清画",
+      "潔画",
+      "漫画",
+      "激画"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH01-M4-10",
+    "chapter": 1,
+    "kanji_range": "001-072",
+    "mondai": 4,
+    "no": 10,
+    "sentence": "人口がげきぞうする。",
+    "underline": "げきぞう",
+    "choices": [
+      "濯増",
+      "濃増",
+      "滑増",
+      "激増"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH02-M1-01",
+    "chapter": 2,
+    "kanji_range": "073-138",
+    "mondai": 1,
+    "no": 1,
+    "sentence": "ご期待に添えるよう、精一杯がんばります。",
+    "underline": "精一杯",
+    "choices": [
+      "せいいちはい",
+      "せいいちぱい",
+      "せいいっぱい",
+      "せいいっぱい"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH02-M1-02",
+    "chapter": 2,
+    "kanji_range": "073-138",
+    "mondai": 1,
+    "no": 2,
+    "sentence": "規模が大きい会社で働きたい。",
+    "underline": "規模",
+    "choices": [
+      "きも",
+      "きもう",
+      "きぼ",
+      "きぼう"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH02-M1-03",
+    "chapter": 2,
+    "kanji_range": "073-138",
+    "mondai": 1,
+    "no": 3,
+    "sentence": "小野さんはとても陽気な人だ。",
+    "underline": "陽気",
+    "choices": [
+      "ようけ",
+      "ようき",
+      "やんけ",
+      "やんき"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH02-M1-04",
+    "chapter": 2,
+    "kanji_range": "073-138",
+    "mondai": 1,
+    "no": 4,
+    "sentence": "帰宅途中に急に大粒の雨が降ってきてびっしょりだった。",
+    "underline": "大粒",
+    "choices": [
+      "だいりつ",
+      "だいつぶ",
+      "おおりつ",
+      "おおつぶ"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH02-M1-05",
+    "chapter": 2,
+    "kanji_range": "073-138",
+    "mondai": 1,
+    "no": 5,
+    "sentence": "階段から落ちて足を骨折してしまった。",
+    "underline": "骨折",
+    "choices": [
+      "こっせつ",
+      "こっぜつ",
+      "こつせつ",
+      "こつぜつ"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH02-M1-06",
+    "chapter": 2,
+    "kanji_range": "073-138",
+    "mondai": 1,
+    "no": 6,
+    "sentence": "戦争に巻き込まれ、罪のない人が多く亡くなってしまった。",
+    "underline": "罪",
+    "choices": [
+      "すみ",
+      "ずみ",
+      "つみ",
+      "ざい"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH02-M1-07",
+    "chapter": 2,
+    "kanji_range": "073-138",
+    "mondai": 1,
+    "no": 7,
+    "sentence": "不況が続き、景気回復の兆しがまったく見えない。",
+    "underline": "兆し",
+    "choices": [
+      "きさし",
+      "きざし",
+      "ささし",
+      "さざし"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH02-M1-08",
+    "chapter": 2,
+    "kanji_range": "073-138",
+    "mondai": 1,
+    "no": 8,
+    "sentence": "隣の人に足を踏まれた。",
+    "underline": "踏まれた",
+    "choices": [
+      "かまれた",
+      "のまれた",
+      "こばまれた",
+      "ふまれた"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH02-M1-09",
+    "chapter": 2,
+    "kanji_range": "073-138",
+    "mondai": 1,
+    "no": 9,
+    "sentence": "取材のために事故現場に向かう。",
+    "underline": "取材",
+    "choices": [
+      "しゅざい",
+      "しゅさい",
+      "しゅうざい",
+      "しゅうさい"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH02-M1-10",
+    "chapter": 2,
+    "kanji_range": "073-138",
+    "mondai": 1,
+    "no": 10,
+    "sentence": "趣味で株を始めた。",
+    "underline": "株",
+    "choices": [
+      "かふ",
+      "かぶ",
+      "から",
+      "がら"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH02-M2-01",
+    "chapter": 2,
+    "kanji_range": "073-138",
+    "mondai": 2,
+    "no": 1,
+    "sentence": "このパンがやわらかくて、とてもおいしい。",
+    "underline": "やわらかくて",
+    "choices": [
+      "柔らかくて",
+      "染らかくて",
+      "季らかくて",
+      "秀らかくて"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH02-M2-02",
+    "chapter": 2,
+    "kanji_range": "073-138",
+    "mondai": 2,
+    "no": 2,
+    "sentence": "車がこしょうしたので、しばらくは電車で通勤する。",
+    "underline": "こしょう",
+    "choices": [
+      "保障",
+      "故障",
+      "保除",
+      "故除"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH02-M2-03",
+    "chapter": 2,
+    "kanji_range": "073-138",
+    "mondai": 2,
+    "no": 3,
+    "sentence": "彼のひどい態度にはらが立ってしようがない。",
+    "underline": "はら",
+    "choices": [
+      "腕",
+      "腰",
+      "胸",
+      "腹"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH02-M2-04",
+    "chapter": 2,
+    "kanji_range": "073-138",
+    "mondai": 2,
+    "no": 4,
+    "sentence": "山の頂上から景色をながめることが好きだ。",
+    "underline": "ながめる",
+    "choices": [
+      "眺める",
+      "染める",
+      "傷める",
+      "沈める"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH02-M2-05",
+    "chapter": 2,
+    "kanji_range": "073-138",
+    "mondai": 2,
+    "no": 5,
+    "sentence": "どろぼうに財布を盗まれた。",
+    "underline": "どろぼう",
+    "choices": [
+      "泥柄",
+      "泥棚",
+      "泥棒",
+      "泥模"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH02-M2-06",
+    "chapter": 2,
+    "kanji_range": "073-138",
+    "mondai": 2,
+    "no": 6,
+    "sentence": "都心より静かなこうがいに住みたい。",
+    "underline": "こうがい",
+    "choices": [
+      "郊外",
+      "交外",
+      "障外",
+      "章外"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH02-M2-07",
+    "chapter": 2,
+    "kanji_range": "073-138",
+    "mondai": 2,
+    "no": 7,
+    "sentence": "社会人にとって、じんみゃくを広げることが大事だと思う。",
+    "underline": "じんみゃく",
+    "choices": [
+      "人脂",
+      "人臓",
+      "人脈",
+      "人腕"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH02-M2-08",
+    "chapter": 2,
+    "kanji_range": "073-138",
+    "mondai": 2,
+    "no": 8,
+    "sentence": "しんぞうは体全体に血液を送っている。",
+    "underline": "しんぞう",
+    "choices": [
+      "心腕",
+      "心腰",
+      "心肌",
+      "心臓"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH02-M2-09",
+    "chapter": 2,
+    "kanji_range": "073-138",
+    "mondai": 2,
+    "no": 9,
+    "sentence": "熊はとうみんする動物としてよく知られている。",
+    "underline": "とうみん",
+    "choices": [
+      "冬民",
+      "冬眠",
+      "冬兆",
+      "冬眺"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH02-M2-10",
+    "chapter": 2,
+    "kanji_range": "073-138",
+    "mondai": 2,
+    "no": 10,
+    "sentence": "彼は日本への入国をこばまれた。",
+    "underline": "こばまれた",
+    "choices": [
+      "巨まれた",
+      "拒まれた",
+      "距まれた",
+      "臣まれた"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH02-M3-01",
+    "chapter": 2,
+    "kanji_range": "073-138",
+    "mondai": 3,
+    "no": 1,
+    "sentence": "耳鼻科",
+    "underline": null,
+    "choices": [
+      "みみはなか",
+      "みみばなか",
+      "しびか",
+      "じびか"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH02-M3-02",
+    "chapter": 2,
+    "kanji_range": "073-138",
+    "mondai": 3,
+    "no": 2,
+    "sentence": "分析",
+    "underline": null,
+    "choices": [
+      "ふんせき",
+      "ぶんせき",
+      "ふんしき",
+      "ぶんしき"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH02-M3-03",
+    "chapter": 2,
+    "kanji_range": "073-138",
+    "mondai": 3,
+    "no": 3,
+    "sentence": "柱",
+    "underline": null,
+    "choices": [
+      "はしら",
+      "がら",
+      "えだ",
+      "ぼう"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH02-M3-04",
+    "chapter": 2,
+    "kanji_range": "073-138",
+    "mondai": 3,
+    "no": 4,
+    "sentence": "人柄",
+    "underline": null,
+    "choices": [
+      "ひとへい",
+      "ひとから",
+      "ひとがら",
+      "じんがら"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH02-M3-05",
+    "chapter": 2,
+    "kanji_range": "073-138",
+    "mondai": 3,
+    "no": 5,
+    "sentence": "積極的",
+    "underline": null,
+    "choices": [
+      "せきょくてき",
+      "せごくてき",
+      "せっきょくてき",
+      "せつごくてき"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH02-M3-06",
+    "chapter": 2,
+    "kanji_range": "073-138",
+    "mondai": 3,
+    "no": 6,
+    "sentence": "結構",
+    "underline": null,
+    "choices": [
+      "けつこう",
+      "けつごう",
+      "けっこう",
+      "けっごう"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH02-M3-07",
+    "chapter": 2,
+    "kanji_range": "073-138",
+    "mondai": 3,
+    "no": 7,
+    "sentence": "権利",
+    "underline": null,
+    "choices": [
+      "けんちょう",
+      "けんとう",
+      "けんりょく",
+      "けんり"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH02-M3-08",
+    "chapter": 2,
+    "kanji_range": "073-138",
+    "mondai": 3,
+    "no": 8,
+    "sentence": "日程",
+    "underline": null,
+    "choices": [
+      "にちてい",
+      "にってい",
+      "にちでい",
+      "ひてい"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH02-M3-09",
+    "chapter": 2,
+    "kanji_range": "073-138",
+    "mondai": 3,
+    "no": 9,
+    "sentence": "穏やか",
+    "underline": null,
+    "choices": [
+      "ゆるやか",
+      "あざやか",
+      "にぎやか",
+      "おだやか"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH02-M3-10",
+    "chapter": 2,
+    "kanji_range": "073-138",
+    "mondai": 3,
+    "no": 10,
+    "sentence": "頭脳",
+    "underline": null,
+    "choices": [
+      "ずのう",
+      "とうのう",
+      "どうのう",
+      "どうの"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH02-M4-01",
+    "chapter": 2,
+    "kanji_range": "073-138",
+    "mondai": 4,
+    "no": 1,
+    "sentence": "木がかれる。",
+    "underline": "かれる",
+    "choices": [
+      "桜れる",
+      "枯れる",
+      "柱れる",
+      "株れる"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH02-M4-02",
+    "chapter": 2,
+    "kanji_range": "073-138",
+    "mondai": 4,
+    "no": 2,
+    "sentence": "ウイルスにかんせんする。",
+    "underline": "かんせん",
+    "choices": [
+      "感心",
+      "感覚",
+      "感動",
+      "感染"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH02-M4-03",
+    "chapter": 2,
+    "kanji_range": "073-138",
+    "mondai": 4,
+    "no": 3,
+    "sentence": "雪がつもる。",
+    "underline": "つもる",
+    "choices": [
+      "積もる",
+      "秘もる",
+      "穏もる",
+      "程もる"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH02-M4-04",
+    "chapter": 2,
+    "kanji_range": "073-138",
+    "mondai": 4,
+    "no": 4,
+    "sentence": "責任をついきゅうする。",
+    "underline": "ついきゅう",
+    "choices": [
+      "追求",
+      "追究",
+      "追及",
+      "追給"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH02-M4-05",
+    "chapter": 2,
+    "kanji_range": "073-138",
+    "mondai": 4,
+    "no": 5,
+    "sentence": "飛行機がちゃくりくする。",
+    "underline": "ちゃくりく",
+    "choices": [
+      "着隠",
+      "着陸",
+      "着隅",
+      "着除"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH02-M4-06",
+    "chapter": 2,
+    "kanji_range": "073-138",
+    "mondai": 4,
+    "no": 6,
+    "sentence": "犯人をついせきする。",
+    "underline": "ついせき",
+    "choices": [
+      "追跡",
+      "追踊",
+      "追踏",
+      "追距"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH02-M4-07",
+    "chapter": 2,
+    "kanji_range": "073-138",
+    "mondai": 4,
+    "no": 7,
+    "sentence": "影響をおよぼす。",
+    "underline": "およぼす",
+    "choices": [
+      "巨ぼす",
+      "拒ぼす",
+      "及ぼす",
+      "扱ぼす"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH02-M4-08",
+    "chapter": 2,
+    "kanji_range": "073-138",
+    "mondai": 4,
+    "no": 8,
+    "sentence": "ダンスをおどる。",
+    "underline": "おどる",
+    "choices": [
+      "跡る",
+      "距る",
+      "踏る",
+      "踊る"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH02-M4-09",
+    "chapter": 2,
+    "kanji_range": "073-138",
+    "mondai": 4,
+    "no": 9,
+    "sentence": "髪をそめる。",
+    "underline": "そめる",
+    "choices": [
+      "染める",
+      "眺める",
+      "秘める",
+      "丸める"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH02-M4-10",
+    "chapter": 2,
+    "kanji_range": "073-138",
+    "mondai": 4,
+    "no": 10,
+    "sentence": "かたを落とす。",
+    "underline": "かた",
+    "choices": [
+      "胃",
+      "背",
+      "骨",
+      "肩"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH03-M1-01",
+    "chapter": 3,
+    "kanji_range": "139-210",
+    "mondai": 1,
+    "no": 1,
+    "sentence": "論文を書くときは根拠を明確に示しましょう。",
+    "underline": "根拠",
+    "choices": [
+      "こんきょう",
+      "こんきょ",
+      "こんしょう",
+      "こんしょ"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH03-M1-02",
+    "chapter": 3,
+    "kanji_range": "139-210",
+    "mondai": 1,
+    "no": 2,
+    "sentence": "人が話しているときに横から口を挟むのはよくない。",
+    "underline": "挟む",
+    "choices": [
+      "おがむ",
+      "つつむ",
+      "めぐむ",
+      "はさむ"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH03-M1-03",
+    "chapter": 3,
+    "kanji_range": "139-210",
+    "mondai": 1,
+    "no": 3,
+    "sentence": "真夏に海辺に遊びに行ったら、顔がすっかり日焼けしてしまった。",
+    "underline": "日焼け",
+    "choices": [
+      "ひやけ",
+      "ひよけ",
+      "にちやけ",
+      "にちよけ"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH03-M1-04",
+    "chapter": 3,
+    "kanji_range": "139-210",
+    "mondai": 1,
+    "no": 4,
+    "sentence": "気分転換のために海外旅行に行く。",
+    "underline": "転換",
+    "choices": [
+      "てんかん",
+      "てんがん",
+      "てんけん",
+      "てんげん"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH03-M1-05",
+    "chapter": 3,
+    "kanji_range": "139-210",
+    "mondai": 1,
+    "no": 5,
+    "sentence": "会議で新しい商品の企画を提案する。",
+    "underline": "提案",
+    "choices": [
+      "てつあん",
+      "てっあん",
+      "ていあん",
+      "てあん"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH03-M1-06",
+    "chapter": 3,
+    "kanji_range": "139-210",
+    "mondai": 1,
+    "no": 6,
+    "sentence": "親にマンションの購入を援助してもらった。",
+    "underline": "援助",
+    "choices": [
+      "えんしょ",
+      "えんじょ",
+      "えいしょ",
+      "えいじょ"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH03-M1-07",
+    "chapter": 3,
+    "kanji_range": "139-210",
+    "mondai": 1,
+    "no": 7,
+    "sentence": "お笑い番組がおもしろすぎて爆笑した。",
+    "underline": "爆笑",
+    "choices": [
+      "ほうしょ",
+      "ぼうしょう",
+      "ばくしょ",
+      "ばくしょう"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH03-M1-08",
+    "chapter": 3,
+    "kanji_range": "139-210",
+    "mondai": 1,
+    "no": 8,
+    "sentence": "彼女は悩みを抱えているみたいで、ため息ばかりつく。",
+    "underline": "悩み",
+    "choices": [
+      "のぞみ",
+      "つつみ",
+      "なやみ",
+      "めぐみ"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH03-M1-09",
+    "chapter": 3,
+    "kanji_range": "139-210",
+    "mondai": 1,
+    "no": 9,
+    "sentence": "最近家の近くをうろうろしている怪しい男がいて、とても怖い。",
+    "underline": "怪しい",
+    "choices": [
+      "くやしい",
+      "おそろしい",
+      "あわただしい",
+      "あやしい"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH03-M1-10",
+    "chapter": 3,
+    "kanji_range": "139-210",
+    "mondai": 1,
+    "no": 10,
+    "sentence": "焦って走っていたら転んでしまった。",
+    "underline": "焦って",
+    "choices": [
+      "あせって",
+      "おこって",
+      "いかって",
+      "とまどって"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH03-M2-01",
+    "chapter": 3,
+    "kanji_range": "139-210",
+    "mondai": 2,
+    "no": 1,
+    "sentence": "人々から政府をひはんする声が上がっている。",
+    "underline": "ひはん",
+    "choices": [
+      "批判",
+      "抱判",
+      "捨判",
+      "掲判"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH03-M2-02",
+    "chapter": 3,
+    "kanji_range": "139-210",
+    "mondai": 2,
+    "no": 2,
+    "sentence": "現場から逃げた犯人がやっと警察につかまった。",
+    "underline": "つかまった",
+    "choices": [
+      "埋まった",
+      "染まった",
+      "挟まった",
+      "捕まった"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH03-M2-03",
+    "chapter": 3,
+    "kanji_range": "139-210",
+    "mondai": 2,
+    "no": 3,
+    "sentence": "この村の人々は、井戸をほって生活用水を確保する。",
+    "underline": "ほって",
+    "choices": [
+      "握って",
+      "掘って",
+      "撮って",
+      "担って"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH03-M2-04",
+    "chapter": 3,
+    "kanji_range": "139-210",
+    "mondai": 2,
+    "no": 4,
+    "sentence": "秋は空気がかんそうしやすいので、山火事に用心するべきだ。",
+    "underline": "かんそう",
+    "choices": [
+      "韓燥",
+      "韓操",
+      "乾燥",
+      "乾操"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH03-M2-05",
+    "chapter": 3,
+    "kanji_range": "139-210",
+    "mondai": 2,
+    "no": 5,
+    "sentence": "この学生寮のしょうとう時間は23時だ。",
+    "underline": "しょうとう",
+    "choices": [
+      "消畑",
+      "消爆",
+      "消煙",
+      "消灯"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH03-M2-06",
+    "chapter": 3,
+    "kanji_range": "139-210",
+    "mondai": 2,
+    "no": 6,
+    "sentence": "火災により数千万円のそんしつが出てしまった。",
+    "underline": "そんしつ",
+    "choices": [
+      "損失",
+      "携失",
+      "提失",
+      "推失"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH03-M2-07",
+    "chapter": 3,
+    "kanji_range": "139-210",
+    "mondai": 2,
+    "no": 7,
+    "sentence": "将来は教師として教育にたずさわりたい。",
+    "underline": "たずさわりたい",
+    "choices": [
+      "撮わりたい",
+      "掲わりたい",
+      "携わりたい",
+      "捨わりたい"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH03-M2-08",
+    "chapter": 3,
+    "kanji_range": "139-210",
+    "mondai": 2,
+    "no": 8,
+    "sentence": "この国は自然にめぐまれている。",
+    "underline": "めぐまれて",
+    "choices": [
+      "志まれて",
+      "恵まれて",
+      "怒まれて",
+      "恥まれて"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH03-M2-09",
+    "chapter": 3,
+    "kanji_range": "139-210",
+    "mondai": 2,
+    "no": 9,
+    "sentence": "みんなの前で泣いてしまって、とてもはずかしかった。",
+    "underline": "はずかしかった",
+    "choices": [
+      "惑ずかしかった",
+      "快ずかしかった",
+      "恥ずかしかった",
+      "患ずかしかった"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH03-M2-10",
+    "chapter": 3,
+    "kanji_range": "139-210",
+    "mondai": 2,
+    "no": 10,
+    "sentence": "夜12時過ぎに帰宅したら、父におこられた。",
+    "underline": "おこられた",
+    "choices": [
+      "怒られた",
+      "焦られた",
+      "握られた",
+      "捕られた"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH03-M3-01",
+    "chapter": 3,
+    "kanji_range": "139-210",
+    "mondai": 3,
+    "no": 1,
+    "sentence": "目印",
+    "underline": null,
+    "choices": [
+      "もくいん",
+      "めいん",
+      "めじるし",
+      "めしるし"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH03-M3-02",
+    "chapter": 3,
+    "kanji_range": "139-210",
+    "mondai": 3,
+    "no": 2,
+    "sentence": "抵抗",
+    "underline": null,
+    "choices": [
+      "ていかん",
+      "てこう",
+      "ていごう",
+      "ていこう"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH03-M3-03",
+    "chapter": 3,
+    "kanji_range": "139-210",
+    "mondai": 3,
+    "no": 3,
+    "sentence": "包帯",
+    "underline": null,
+    "choices": [
+      "ほうたい",
+      "ほうだい",
+      "ほたい",
+      "ほだい"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH03-M3-04",
+    "chapter": 3,
+    "kanji_range": "139-210",
+    "mondai": 3,
+    "no": 4,
+    "sentence": "担ぐ",
+    "underline": null,
+    "choices": [
+      "かつぐ",
+      "さわぐ",
+      "つぐ",
+      "いそぐ"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH03-M3-05",
+    "chapter": 3,
+    "kanji_range": "139-210",
+    "mondai": 3,
+    "no": 5,
+    "sentence": "捜査",
+    "underline": null,
+    "choices": [
+      "そうさく",
+      "そうさ",
+      "せいさ",
+      "せいさく"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH03-M3-06",
+    "chapter": 3,
+    "kanji_range": "139-210",
+    "mondai": 3,
+    "no": 6,
+    "sentence": "探る",
+    "underline": null,
+    "choices": [
+      "とる",
+      "ほる",
+      "さぐる",
+      "どなる"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH03-M3-07",
+    "chapter": 3,
+    "kanji_range": "139-210",
+    "mondai": 3,
+    "no": 7,
+    "sentence": "距離",
+    "underline": null,
+    "choices": [
+      "きゅうり",
+      "きゅり",
+      "きょうり",
+      "きょり"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH03-M3-08",
+    "chapter": 3,
+    "kanji_range": "139-210",
+    "mondai": 3,
+    "no": 8,
+    "sentence": "掲示板",
+    "underline": null,
+    "choices": [
+      "けいしはん",
+      "けいじはん",
+      "けいじばん",
+      "けいじいた"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH03-M3-09",
+    "chapter": 3,
+    "kanji_range": "139-210",
+    "mondai": 3,
+    "no": 9,
+    "sentence": "炎",
+    "underline": null,
+    "choices": [
+      "ほのお",
+      "ほの",
+      "ひ",
+      "び"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH03-M3-10",
+    "chapter": 3,
+    "kanji_range": "139-210",
+    "mondai": 3,
+    "no": 10,
+    "sentence": "恐怖",
+    "underline": null,
+    "choices": [
+      "きょうぶ",
+      "きょうふ",
+      "きゅうぶ",
+      "きゅうふ"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH03-M4-01",
+    "chapter": 3,
+    "kanji_range": "139-210",
+    "mondai": 4,
+    "no": 1,
+    "sentence": "犯罪をよくしする",
+    "underline": "よくし",
+    "choices": [
+      "批止",
+      "抑止",
+      "抗止",
+      "拾止"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH03-M4-02",
+    "chapter": 3,
+    "kanji_range": "139-210",
+    "mondai": 4,
+    "no": 2,
+    "sentence": "仏をおがむ",
+    "underline": "おがむ",
+    "choices": [
+      "挟む",
+      "拝む",
+      "握む",
+      "操む"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH03-M4-03",
+    "chapter": 3,
+    "kanji_range": "139-210",
+    "mondai": 4,
+    "no": 3,
+    "sentence": "ゴミをすてる",
+    "underline": "すてる",
+    "choices": [
+      "捨てる",
+      "振てる",
+      "掃てる",
+      "換てる"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH03-M4-04",
+    "chapter": 3,
+    "kanji_range": "139-210",
+    "mondai": 4,
+    "no": 4,
+    "sentence": "床をはく",
+    "underline": "はく",
+    "choices": [
+      "描く",
+      "招く",
+      "抜く",
+      "掃く"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH03-M4-05",
+    "chapter": 3,
+    "kanji_range": "139-210",
+    "mondai": 4,
+    "no": 5,
+    "sentence": "ちゅうせんに当たる",
+    "underline": "ちゅうせん",
+    "choices": [
+      "抵選",
+      "拡選",
+      "抽選",
+      "提選"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH03-M4-06",
+    "chapter": 3,
+    "kanji_range": "139-210",
+    "mondai": 4,
+    "no": 6,
+    "sentence": "機械をそうさする",
+    "underline": "そうさ",
+    "choices": [
+      "操作",
+      "捜作",
+      "採作",
+      "探作"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH03-M4-07",
+    "chapter": 3,
+    "kanji_range": "139-210",
+    "mondai": 4,
+    "no": 7,
+    "sentence": "さかを上る",
+    "underline": "さか",
+    "choices": [
+      "城",
+      "坊",
+      "坂",
+      "均"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH03-M4-08",
+    "chapter": 3,
+    "kanji_range": "139-210",
+    "mondai": 4,
+    "no": 8,
+    "sentence": "森がもえる",
+    "underline": "もえる",
+    "choices": [
+      "焼える",
+      "煙える",
+      "爆える",
+      "燃える"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH03-M4-09",
+    "chapter": 3,
+    "kanji_range": "139-210",
+    "mondai": 4,
+    "no": 9,
+    "sentence": "きおく力を高める",
+    "underline": "きおく",
+    "choices": [
+      "記憎",
+      "記憶",
+      "記慌",
+      "記悔"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH03-M4-10",
+    "chapter": 3,
+    "kanji_range": "139-210",
+    "mondai": 4,
+    "no": 10,
+    "sentence": "写真をとる",
+    "underline": "とる",
+    "choices": [
+      "捕る",
+      "撮る",
+      "採る",
+      "写る"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH04-M1-01",
+    "chapter": 4,
+    "kanji_range": "211-282",
+    "mondai": 1,
+    "no": 1,
+    "sentence": "塩分を摂りすぎると、高血圧になりやすくなるそうだ。",
+    "underline": "塩分",
+    "choices": [
+      "えんふん",
+      "えんぶん",
+      "しおふん",
+      "しおぶん"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH04-M1-02",
+    "chapter": 4,
+    "kanji_range": "211-282",
+    "mondai": 1,
+    "no": 2,
+    "sentence": "彼の技術は至高の領域に達している。",
+    "underline": "領域",
+    "choices": [
+      "ちいき",
+      "くいき",
+      "りゅういき",
+      "りょういき"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH04-M1-03",
+    "chapter": 4,
+    "kanji_range": "211-282",
+    "mondai": 1,
+    "no": 3,
+    "sentence": "壁にペンキを塗る。",
+    "underline": "塗る",
+    "choices": [
+      "ぬる",
+      "やぶる",
+      "はる",
+      "おくる"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH04-M1-04",
+    "chapter": 4,
+    "kanji_range": "211-282",
+    "mondai": 1,
+    "no": 4,
+    "sentence": "会議で会社の今後の方針を決める。",
+    "underline": "方針",
+    "choices": [
+      "ほうしん",
+      "ほうこう",
+      "ほうがく",
+      "ほうほう"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH04-M1-05",
+    "chapter": 4,
+    "kanji_range": "211-282",
+    "mondai": 1,
+    "no": 5,
+    "sentence": "佐藤選手は女子マラソンの日本記録を更新した。",
+    "underline": "記録",
+    "choices": [
+      "きろ",
+      "ぎろ",
+      "きろく",
+      "きろぐ"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH04-M1-06",
+    "chapter": 4,
+    "kanji_range": "211-282",
+    "mondai": 1,
+    "no": 6,
+    "sentence": "部長は理屈の通らない頑固な人だ。",
+    "underline": "頑固",
+    "choices": [
+      "かんこ",
+      "がんこ",
+      "かんご",
+      "がんご"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH04-M1-07",
+    "chapter": 4,
+    "kanji_range": "211-282",
+    "mondai": 1,
+    "no": 7,
+    "sentence": "吹雪のため授業が休講となった。",
+    "underline": "吹雪",
+    "choices": [
+      "ふきゆき",
+      "ふきせつ",
+      "ふせつ",
+      "ふぶき"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH04-M1-08",
+    "chapter": 4,
+    "kanji_range": "211-282",
+    "mondai": 1,
+    "no": 8,
+    "sentence": "竹田さんは頼もしくて信頼できる人だ。",
+    "underline": "頼もしくて",
+    "choices": [
+      "たよもしくて",
+      "たもしくて",
+      "たのもしくて",
+      "たなもしくて"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH04-M1-09",
+    "chapter": 4,
+    "kanji_range": "211-282",
+    "mondai": 1,
+    "no": 9,
+    "sentence": "深呼吸をしてリラックスする。",
+    "underline": "深呼吸",
+    "choices": [
+      "しんくきゅう",
+      "しんこきゅう",
+      "しんくきょう",
+      "しんこきょう"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH04-M1-10",
+    "chapter": 4,
+    "kanji_range": "211-282",
+    "mondai": 1,
+    "no": 10,
+    "sentence": "週末はつい夜更かししてしまう。",
+    "underline": "夜更かし",
+    "choices": [
+      "やふかし",
+      "やぶかし",
+      "よふかし",
+      "よぶかし"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH04-M2-01",
+    "chapter": 4,
+    "kanji_range": "211-282",
+    "mondai": 2,
+    "no": 1,
+    "sentence": "大切な腕時計がこわれて動かなくなってしまった。",
+    "underline": "こわれて",
+    "choices": [
+      "枯れて",
+      "離れて",
+      "破れて",
+      "壊れて"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH04-M2-02",
+    "chapter": 4,
+    "kanji_range": "211-282",
+    "mondai": 2,
+    "no": 2,
+    "sentence": "水に濡れて紙がやぶれた。",
+    "underline": "やぶれた",
+    "choices": [
+      "壊れた",
+      "破れた",
+      "荒れた",
+      "枯れた"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH04-M2-03",
+    "chapter": 4,
+    "kanji_range": "211-282",
+    "mondai": 2,
+    "no": 3,
+    "sentence": "千円札を百円のこうかに両替する。",
+    "underline": "こうか",
+    "choices": [
+      "硬貨",
+      "更貨",
+      "硬貧",
+      "硬貴"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH04-M2-04",
+    "chapter": 4,
+    "kanji_range": "211-282",
+    "mondai": 2,
+    "no": 4,
+    "sentence": "国はひんこんをなくすための政策を打ち出した。",
+    "underline": "ひんこん",
+    "choices": [
+      "貨困",
+      "貧困",
+      "賃困",
+      "賢困"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH04-M2-05",
+    "chapter": 4,
+    "kanji_range": "211-282",
+    "mondai": 2,
+    "no": 5,
+    "sentence": "仕事がじゅんちょうに進んでいる。",
+    "underline": "じゅんちょう",
+    "choices": [
+      "順位",
+      "順番",
+      "順序",
+      "順調"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH04-M2-06",
+    "chapter": 4,
+    "kanji_range": "211-282",
+    "mondai": 2,
+    "no": 6,
+    "sentence": "このクラスは女子が全体の9割以上をしめる。",
+    "underline": "しめる",
+    "choices": [
+      "含める",
+      "詰める",
+      "占める",
+      "埋める"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH04-M2-07",
+    "chapter": 4,
+    "kanji_range": "211-282",
+    "mondai": 2,
+    "no": 7,
+    "sentence": "ずっと欲しかった車をてごろな価格で購入できた。",
+    "underline": "てごろ",
+    "choices": [
+      "手頃",
+      "手頂",
+      "手額",
+      "手領"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH04-M2-08",
+    "chapter": 4,
+    "kanji_range": "211-282",
+    "mondai": 2,
+    "no": 8,
+    "sentence": "ごかいを避けるためにきちんと説明しましょう。",
+    "underline": "ごかい",
+    "choices": [
+      "詳解",
+      "訓解",
+      "誤解",
+      "認解"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH04-M2-09",
+    "chapter": 4,
+    "kanji_range": "211-282",
+    "mondai": 2,
+    "no": 9,
+    "sentence": "一流大学に入って親にみとめてもらいたい。",
+    "underline": "みとめて",
+    "choices": [
+      "認めて",
+      "埋めて",
+      "含めて",
+      "占めて"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH04-M2-10",
+    "chapter": 4,
+    "kanji_range": "211-282",
+    "mondai": 2,
+    "no": 10,
+    "sentence": "日本語の文章を英語にやくす。",
+    "underline": "やくす",
+    "choices": [
+      "捜す",
+      "訳す",
+      "壊す",
+      "許す"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH04-M3-01",
+    "chapter": 4,
+    "kanji_range": "211-282",
+    "mondai": 3,
+    "no": 1,
+    "sentence": "缶詰め",
+    "underline": null,
+    "choices": [
+      "かんつめ",
+      "かんづめ",
+      "びんつめ",
+      "びんづめ"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH04-M3-02",
+    "chapter": 4,
+    "kanji_range": "211-282",
+    "mondai": 3,
+    "no": 2,
+    "sentence": "台詞",
+    "underline": null,
+    "choices": [
+      "かし",
+      "かじ",
+      "せりふ",
+      "せりぶ"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH04-M3-03",
+    "chapter": 4,
+    "kanji_range": "211-282",
+    "mondai": 3,
+    "no": 3,
+    "sentence": "善悪",
+    "underline": null,
+    "choices": [
+      "せんあく",
+      "せんあ",
+      "ぜんあく",
+      "ぜんあ"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH04-M3-04",
+    "chapter": 4,
+    "kanji_range": "211-282",
+    "mondai": 3,
+    "no": 4,
+    "sentence": "拒否",
+    "underline": null,
+    "choices": [
+      "こひ",
+      "こうひ",
+      "きょうひ",
+      "きょひ"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH04-M3-05",
+    "chapter": 4,
+    "kanji_range": "211-282",
+    "mondai": 3,
+    "no": 5,
+    "sentence": "哲学",
+    "underline": null,
+    "choices": [
+      "てつがく",
+      "せつがく",
+      "てっがく",
+      "せっがく"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH04-M3-06",
+    "chapter": 4,
+    "kanji_range": "211-282",
+    "mondai": 3,
+    "no": 6,
+    "sentence": "信号",
+    "underline": null,
+    "choices": [
+      "しんこう",
+      "しんごう",
+      "しんおう",
+      "しんのう"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH04-M3-07",
+    "chapter": 4,
+    "kanji_range": "211-282",
+    "mondai": 3,
+    "no": 7,
+    "sentence": "額",
+    "underline": null,
+    "choices": [
+      "かお",
+      "ひざ",
+      "うで",
+      "ひたい"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH04-M3-08",
+    "chapter": 4,
+    "kanji_range": "211-282",
+    "mondai": 3,
+    "no": 8,
+    "sentence": "賛成",
+    "underline": null,
+    "choices": [
+      "せんせい",
+      "さんせい",
+      "しょうせい",
+      "かんせい"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH04-M3-09",
+    "chapter": 4,
+    "kanji_range": "211-282",
+    "mondai": 3,
+    "no": 9,
+    "sentence": "鋭い",
+    "underline": null,
+    "choices": [
+      "にぶい",
+      "かしこい",
+      "しぶい",
+      "するどい"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH04-M3-10",
+    "chapter": 4,
+    "kanji_range": "211-282",
+    "mondai": 3,
+    "no": 10,
+    "sentence": "鈍い",
+    "underline": null,
+    "choices": [
+      "にぶい",
+      "あらい",
+      "しぶい",
+      "するどい"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH04-M4-01",
+    "chapter": 4,
+    "kanji_range": "211-282",
+    "mondai": 4,
+    "no": 1,
+    "sentence": "ひにくを言う",
+    "underline": "ひにく",
+    "choices": [
+      "硬肉",
+      "更肉",
+      "破肉",
+      "皮肉"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH04-M4-02",
+    "chapter": 4,
+    "kanji_range": "211-282",
+    "mondai": 4,
+    "no": 2,
+    "sentence": "やちんを支払う",
+    "underline": "やちん",
+    "choices": [
+      "家料",
+      "家財",
+      "家賃",
+      "家代"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH04-M4-03",
+    "chapter": 4,
+    "kanji_range": "211-282",
+    "mondai": 4,
+    "no": 3,
+    "sentence": "花がさく",
+    "underline": "さく",
+    "choices": [
+      "咲く",
+      "吹く",
+      "頂く",
+      "破く"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH04-M4-04",
+    "chapter": 4,
+    "kanji_range": "211-282",
+    "mondai": 4,
+    "no": 4,
+    "sentence": "敵をうつ",
+    "underline": "うつ",
+    "choices": [
+      "攻つ",
+      "討つ",
+      "殺つ",
+      "倒つ"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH04-M4-05",
+    "chapter": 4,
+    "kanji_range": "211-282",
+    "mondai": 4,
+    "no": 5,
+    "sentence": "患者をみる",
+    "underline": "みる",
+    "choices": [
+      "治る",
+      "診る",
+      "誤る",
+      "頼る"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH04-M4-06",
+    "chapter": 4,
+    "kanji_range": "211-282",
+    "mondai": 4,
+    "no": 6,
+    "sentence": "ポスターをはる",
+    "underline": "はる",
+    "choices": [
+      "贈る",
+      "塗る",
+      "破る",
+      "貼る"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH04-M4-07",
+    "chapter": 4,
+    "kanji_range": "211-282",
+    "mondai": 4,
+    "no": 7,
+    "sentence": "プレゼントをおくる",
+    "underline": "おくる",
+    "choices": [
+      "贈る",
+      "握る",
+      "頼る",
+      "探る"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH04-M4-08",
+    "chapter": 4,
+    "kanji_range": "211-282",
+    "mondai": 4,
+    "no": 8,
+    "sentence": "穴をうめる",
+    "underline": "うめる",
+    "choices": [
+      "占める",
+      "含める",
+      "認める",
+      "埋める"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH04-M4-09",
+    "chapter": 4,
+    "kanji_range": "211-282",
+    "mondai": 4,
+    "no": 9,
+    "sentence": "心をゆるす",
+    "underline": "ゆるす",
+    "choices": [
+      "離す",
+      "探す",
+      "許す",
+      "壊す"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH04-M4-10",
+    "chapter": 4,
+    "kanji_range": "211-282",
+    "mondai": 4,
+    "no": 10,
+    "sentence": "いしきを失う",
+    "underline": "いしき",
+    "choices": [
+      "意識",
+      "認識",
+      "知識",
+      "常識"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH05-M1-01",
+    "chapter": 5,
+    "kanji_range": "283-348",
+    "mondai": 1,
+    "no": 1,
+    "sentence": "台風で大会が延期になった。",
+    "underline": "延期",
+    "choices": [
+      "えんき",
+      "のうき",
+      "ていき",
+      "にんき"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH05-M1-02",
+    "chapter": 5,
+    "kanji_range": "283-348",
+    "mondai": 1,
+    "no": 2,
+    "sentence": "森田さんは大学で講師として働いている。",
+    "underline": "講師",
+    "choices": [
+      "いし",
+      "りょうし",
+      "ぎし",
+      "こうし"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH05-M1-03",
+    "chapter": 5,
+    "kanji_range": "283-348",
+    "mondai": 1,
+    "no": 3,
+    "sentence": "社長にいろいろ提案をしたが無視された。",
+    "underline": "無視",
+    "choices": [
+      "むしょう",
+      "むしん",
+      "むし",
+      "むせん"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH05-M1-04",
+    "chapter": 5,
+    "kanji_range": "283-348",
+    "mondai": 1,
+    "no": 4,
+    "sentence": "A氏は大統領候補として知られている。",
+    "underline": "候補",
+    "choices": [
+      "こうほ",
+      "こうほう",
+      "こうぽ",
+      "こうぽう"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH05-M1-05",
+    "chapter": 5,
+    "kanji_range": "283-348",
+    "mondai": 1,
+    "no": 5,
+    "sentence": "生態系のバランスを保つことが人類にとって大きな課題である。",
+    "underline": "生態系",
+    "choices": [
+      "しょうたいけい",
+      "せいたいけい",
+      "しょうだいけい",
+      "せいだいけい"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH05-M1-06",
+    "chapter": 5,
+    "kanji_range": "283-348",
+    "mondai": 1,
+    "no": 6,
+    "sentence": "浴衣を着て花火大会に行く。",
+    "underline": "浴衣",
+    "choices": [
+      "よくい",
+      "よくえ",
+      "ゆかた",
+      "ゆがた"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH05-M1-07",
+    "chapter": 5,
+    "kanji_range": "283-348",
+    "mondai": 1,
+    "no": 7,
+    "sentence": "抽選の結果はホームページに掲載する予定だ。",
+    "underline": "掲載",
+    "choices": [
+      "れんざい",
+      "れんさい",
+      "けいざい",
+      "けいさい"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH05-M1-08",
+    "chapter": 5,
+    "kanji_range": "283-348",
+    "mondai": 1,
+    "no": 8,
+    "sentence": "地震で被害を受けた人々の救援に向かう。",
+    "underline": "救援",
+    "choices": [
+      "きゅうめい",
+      "きゅうきゅう",
+      "きゅうじょ",
+      "きゅうえん"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH05-M1-09",
+    "chapter": 5,
+    "kanji_range": "283-348",
+    "mondai": 1,
+    "no": 9,
+    "sentence": "隣の人がいきなり大声で叫び出して、驚いた。",
+    "underline": "驚いた",
+    "choices": [
+      "おどろいた",
+      "あばいた",
+      "かたむいた",
+      "いただいた"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH05-M1-10",
+    "chapter": 5,
+    "kanji_range": "283-348",
+    "mondai": 1,
+    "no": 10,
+    "sentence": "法師によって妖怪が封印された。",
+    "underline": "封印",
+    "choices": [
+      "ほういん",
+      "ふういん",
+      "せいいん",
+      "なついん"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH05-M2-01",
+    "chapter": 5,
+    "kanji_range": "283-348",
+    "mondai": 2,
+    "no": 1,
+    "sentence": "ふくしが充実している国で暮らしたい。",
+    "underline": "ふくし",
+    "choices": [
+      "福視",
+      "福祉",
+      "祝祉",
+      "祖祉"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH05-M2-02",
+    "chapter": 5,
+    "kanji_range": "283-348",
+    "mondai": 2,
+    "no": 2,
+    "sentence": "クラスメイトの誕生日パーティーにさそわれた。",
+    "underline": "さそわれた",
+    "choices": [
+      "誘われた",
+      "嫌われた",
+      "祝われた",
+      "補われた"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH05-M2-03",
+    "chapter": 5,
+    "kanji_range": "283-348",
+    "mondai": 2,
+    "no": 3,
+    "sentence": "親友にうらぎられてつらかった。",
+    "underline": "うらぎられて",
+    "choices": [
+      "袋切られて",
+      "装切られて",
+      "裁切られて",
+      "裏切られて"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH05-M2-04",
+    "chapter": 5,
+    "kanji_range": "283-348",
+    "mondai": 2,
+    "no": 4,
+    "sentence": "皆様のご健康をおいのりしております。",
+    "underline": "おいのり",
+    "choices": [
+      "謝り",
+      "散り",
+      "昇り",
+      "祈り"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH05-M2-05",
+    "chapter": 5,
+    "kanji_range": "283-348",
+    "mondai": 2,
+    "no": 5,
+    "sentence": "彼は殺人の容疑でさいばんにかけられた。",
+    "underline": "さいばん",
+    "choices": [
+      "袋判",
+      "装判",
+      "裁判",
+      "載判"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH05-M2-06",
+    "chapter": 5,
+    "kanji_range": "283-348",
+    "mondai": 2,
+    "no": 6,
+    "sentence": "今日は昨日より気温がおおはばに上昇した。",
+    "underline": "おおはば",
+    "choices": [
+      "大幅",
+      "大帽",
+      "大帳",
+      "大帙"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH05-M2-07",
+    "chapter": 5,
+    "kanji_range": "283-348",
+    "mondai": 2,
+    "no": 7,
+    "sentence": "ミサイルが発射するすんぜんに爆発した。",
+    "underline": "すんぜん",
+    "choices": [
+      "封前",
+      "射前",
+      "付前",
+      "寸前"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH05-M2-08",
+    "chapter": 5,
+    "kanji_range": "283-348",
+    "mondai": 2,
+    "no": 8,
+    "sentence": "一人暮らしは自由だが、こどくを感じる時もある。",
+    "underline": "こどく",
+    "choices": [
+      "孤立",
+      "孤独",
+      "孤児",
+      "孤影"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH05-M2-09",
+    "chapter": 5,
+    "kanji_range": "283-348",
+    "mondai": 2,
+    "no": 9,
+    "sentence": "相澤さんは仕事ができる上に人にも優しく、周りからそんけいされている。",
+    "underline": "そんけい",
+    "choices": [
+      "専敬",
+      "尊敵",
+      "尊敬",
+      "専敵"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH05-M2-10",
+    "chapter": 5,
+    "kanji_range": "283-348",
+    "mondai": 2,
+    "no": 10,
+    "sentence": "心のせまい人と付き合いたくない。",
+    "underline": "せまい",
+    "choices": [
+      "荒い",
+      "狭い",
+      "怖い",
+      "硬い"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH05-M3-01",
+    "chapter": 5,
+    "kanji_range": "283-348",
+    "mondai": 3,
+    "no": 1,
+    "sentence": "謝罪",
+    "underline": null,
+    "choices": [
+      "はんざい",
+      "しゃざい",
+      "ゆうざい",
+      "むざい"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH05-M3-02",
+    "chapter": 5,
+    "kanji_range": "283-348",
+    "mondai": 3,
+    "no": 2,
+    "sentence": "看護",
+    "underline": null,
+    "choices": [
+      "かんびょう",
+      "かんご",
+      "かいご",
+      "ほご"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH05-M3-03",
+    "chapter": 5,
+    "kanji_range": "283-348",
+    "mondai": 3,
+    "no": 3,
+    "sentence": "暴力",
+    "underline": null,
+    "choices": [
+      "ばくりょく",
+      "ばくりき",
+      "ぼうりょく",
+      "ぼうりき"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH05-M3-04",
+    "chapter": 5,
+    "kanji_range": "283-348",
+    "mondai": 3,
+    "no": 4,
+    "sentence": "為替",
+    "underline": null,
+    "choices": [
+      "かわせ",
+      "りょうがえ",
+      "こうたい",
+      "だいたい"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH05-M3-05",
+    "chapter": 5,
+    "kanji_range": "283-348",
+    "mondai": 3,
+    "no": 5,
+    "sentence": "必需品",
+    "underline": null,
+    "choices": [
+      "ひつぜんひん",
+      "ひつようひん",
+      "ひつじゅひん",
+      "ひっすぴん"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH05-M3-06",
+    "chapter": 5,
+    "kanji_range": "283-348",
+    "mondai": 3,
+    "no": 6,
+    "sentence": "孫",
+    "underline": null,
+    "choices": [
+      "ひま",
+      "だれ",
+      "むすめ",
+      "まご"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH05-M3-07",
+    "chapter": 5,
+    "kanji_range": "283-348",
+    "mondai": 3,
+    "no": 7,
+    "sentence": "容姿",
+    "underline": null,
+    "choices": [
+      "ようし",
+      "ゆうし",
+      "ようせ",
+      "ゆうせ"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH05-M3-08",
+    "chapter": 5,
+    "kanji_range": "283-348",
+    "mondai": 3,
+    "no": 8,
+    "sentence": "衣装",
+    "underline": null,
+    "choices": [
+      "えそう",
+      "えしょう",
+      "いそう",
+      "いしょう"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH05-M3-09",
+    "chapter": 5,
+    "kanji_range": "283-348",
+    "mondai": 3,
+    "no": 9,
+    "sentence": "匹敵",
+    "underline": null,
+    "choices": [
+      "ひてき",
+      "ひってき",
+      "ひでき",
+      "ぴてき"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH05-M3-10",
+    "chapter": 5,
+    "kanji_range": "283-348",
+    "mondai": 3,
+    "no": 10,
+    "sentence": "物騒",
+    "underline": null,
+    "choices": [
+      "ものさわぎ",
+      "ぶつそう",
+      "ぶっそう",
+      "ぶそう"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH05-M4-01",
+    "chapter": 5,
+    "kanji_range": "283-348",
+    "mondai": 4,
+    "no": 1,
+    "sentence": "席をゆずる",
+    "underline": "ゆずる",
+    "choices": [
+      "謝る",
+      "祈る",
+      "被る",
+      "譲る"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH05-M4-02",
+    "chapter": 5,
+    "kanji_range": "283-348",
+    "mondai": 4,
+    "no": 2,
+    "sentence": "じらいを踏む",
+    "underline": "じらい",
+    "choices": [
+      "地雷",
+      "地零",
+      "地需",
+      "地曇"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH05-M4-03",
+    "chapter": 5,
+    "kanji_range": "283-348",
+    "mondai": 4,
+    "no": 3,
+    "sentence": "いやみを言う",
+    "underline": "いやみ",
+    "choices": [
+      "文句",
+      "悪口",
+      "嫌味",
+      "皮肉"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH05-M4-04",
+    "chapter": 5,
+    "kanji_range": "283-348",
+    "mondai": 4,
+    "no": 4,
+    "sentence": "帽子をかぶる",
+    "underline": "かぶる",
+    "choices": [
+      "被る",
+      "譲る",
+      "祈る",
+      "謝る"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH05-M4-05",
+    "chapter": 5,
+    "kanji_range": "283-348",
+    "mondai": 4,
+    "no": 5,
+    "sentence": "桜がちる",
+    "underline": "ちる",
+    "choices": [
+      "曇る",
+      "昇る",
+      "被る",
+      "散る"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH05-M4-06",
+    "chapter": 5,
+    "kanji_range": "283-348",
+    "mondai": 4,
+    "no": 6,
+    "sentence": "罪をおかす",
+    "underline": "おかす",
+    "choices": [
+      "倒す",
+      "犯す",
+      "催す",
+      "隠す"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH05-M4-07",
+    "chapter": 5,
+    "kanji_range": "283-348",
+    "mondai": 4,
+    "no": 7,
+    "sentence": "日がのぼる",
+    "underline": "のぼる",
+    "choices": [
+      "曇る",
+      "昇る",
+      "載る",
+      "被る"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH05-M4-08",
+    "chapter": 5,
+    "kanji_range": "283-348",
+    "mondai": 4,
+    "no": 8,
+    "sentence": "仕事にせんねんする",
+    "underline": "せんねん",
+    "choices": [
+      "専攻",
+      "専属",
+      "専念",
+      "専制"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH05-M4-09",
+    "chapter": 5,
+    "kanji_range": "283-348",
+    "mondai": 4,
+    "no": 9,
+    "sentence": "新年をいわう",
+    "underline": "いわう",
+    "choices": [
+      "祝う",
+      "補う",
+      "救う",
+      "敬う"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH05-M4-10",
+    "chapter": 5,
+    "kanji_range": "283-348",
+    "mondai": 4,
+    "no": 10,
+    "sentence": "代金をせいきゅうする",
+    "underline": "せいきゅう",
+    "choices": [
+      "誘求",
+      "諸求",
+      "護求",
+      "請求"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH06-M1-01",
+    "chapter": 6,
+    "kanji_range": "349-420",
+    "mondai": 1,
+    "no": 1,
+    "sentence": "生産性を上げるために新しい技術を導入する。",
+    "underline": "導入",
+    "choices": [
+      "とうにゅう",
+      "どうにゅう",
+      "とにゅう",
+      "どにゅう"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH06-M1-02",
+    "chapter": 6,
+    "kanji_range": "349-420",
+    "mondai": 1,
+    "no": 2,
+    "sentence": "日本では毎年様々な伝統的な行事が行われる。",
+    "underline": "伝統",
+    "choices": [
+      "てんとう",
+      "でんとう",
+      "てんけい",
+      "てんのう"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH06-M1-03",
+    "chapter": 6,
+    "kanji_range": "349-420",
+    "mondai": 1,
+    "no": 3,
+    "sentence": "夏休みは充実した毎日を過ごしたい。",
+    "underline": "充実",
+    "choices": [
+      "ちゅうじつ",
+      "しゅうじつ",
+      "じゅうじつ",
+      "じゅじつ"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH06-M1-04",
+    "chapter": 6,
+    "kanji_range": "349-420",
+    "mondai": 1,
+    "no": 4,
+    "sentence": "面接の時は緊張のあまり、頭が真っ白になった。",
+    "underline": "緊張",
+    "choices": [
+      "きんちょ",
+      "けんちょ",
+      "けんちょう",
+      "きんちょう"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH06-M1-05",
+    "chapter": 6,
+    "kanji_range": "349-420",
+    "mondai": 1,
+    "no": 5,
+    "sentence": "列車が時刻どおりに到着した。",
+    "underline": "時刻",
+    "choices": [
+      "じこく",
+      "じごく",
+      "じかく",
+      "じがく"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH06-M1-06",
+    "chapter": 6,
+    "kanji_range": "349-420",
+    "mondai": 1,
+    "no": 6,
+    "sentence": "人類は宇宙に関しての知識がまだまだ乏しい。",
+    "underline": "宇宙",
+    "choices": [
+      "うちゅう",
+      "うじゅう",
+      "ふちゅう",
+      "ふじゅう"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH06-M1-07",
+    "chapter": 6,
+    "kanji_range": "349-420",
+    "mondai": 1,
+    "no": 7,
+    "sentence": "業績をきちんと評価されるかどうかは、働く意欲に影響する。",
+    "underline": "意欲",
+    "choices": [
+      "いゆう",
+      "いゆく",
+      "いよう",
+      "いよく"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH06-M1-08",
+    "chapter": 6,
+    "kanji_range": "349-420",
+    "mondai": 1,
+    "no": 8,
+    "sentence": "IT知識が全くない素人に、この部署の部長が務まるわけがない。",
+    "underline": "素人",
+    "choices": [
+      "そにん",
+      "すじん",
+      "すひと",
+      "しろうと"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH06-M1-09",
+    "chapter": 6,
+    "kanji_range": "349-420",
+    "mondai": 1,
+    "no": 9,
+    "sentence": "町の中心部ほど人口密度が高い。",
+    "underline": "密度",
+    "choices": [
+      "ていど",
+      "せいど",
+      "みつど",
+      "のうど"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH06-M1-10",
+    "chapter": 6,
+    "kanji_range": "349-420",
+    "mondai": 1,
+    "no": 10,
+    "sentence": "家から最寄りの駅まで歩いて30分もかかる。",
+    "underline": "最寄り",
+    "choices": [
+      "さいより",
+      "もより",
+      "さより",
+      "せより"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH06-M2-01",
+    "chapter": 6,
+    "kanji_range": "349-420",
+    "mondai": 2,
+    "no": 1,
+    "sentence": "保険会社の人に生命保険の加入をかんゆうされた。",
+    "underline": "かんゆう",
+    "choices": [
+      "勧進",
+      "勧誘",
+      "勧告",
+      "警告"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH06-M2-02",
+    "chapter": 6,
+    "kanji_range": "349-420",
+    "mondai": 2,
+    "no": 2,
+    "sentence": "海外留学をしている息子からの連絡が突然とだえた。",
+    "underline": "とだえた",
+    "choices": [
+      "余純えた",
+      "余絶えた",
+      "途純えた",
+      "途絶えた"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH06-M2-03",
+    "chapter": 6,
+    "kanji_range": "349-420",
+    "mondai": 2,
+    "no": 3,
+    "sentence": "レポート提出のしめきりは今週金曜日です。",
+    "underline": "しめきり",
+    "choices": [
+      "締め切り",
+      "総め切り",
+      "編め切り",
+      "織め切り"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH06-M2-04",
+    "chapter": 6,
+    "kanji_range": "349-420",
+    "mondai": 2,
+    "no": 4,
+    "sentence": "新しく買ったセーターを洗濯機で洗ったらちぢんでしまった。",
+    "underline": "ちぢんで",
+    "choices": [
+      "編んで",
+      "刻んで",
+      "縮んで",
+      "悩んで"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH06-M2-05",
+    "chapter": 6,
+    "kanji_range": "349-420",
+    "mondai": 2,
+    "no": 5,
+    "sentence": "犯人が包丁で被害者をさして現場から逃走したそうだ。",
+    "underline": "さして",
+    "choices": [
+      "犯して",
+      "干して",
+      "刺して",
+      "乱して"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH06-M2-06",
+    "chapter": 6,
+    "kanji_range": "349-420",
+    "mondai": 2,
+    "no": 6,
+    "sentence": "収入を増やすため、よかを利用して副業をする。",
+    "underline": "よか",
+    "choices": [
+      "余裕",
+      "余暇",
+      "余分",
+      "余計"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH06-M2-07",
+    "chapter": 6,
+    "kanji_range": "349-420",
+    "mondai": 2,
+    "no": 7,
+    "sentence": "ねぼうしてしまって学校に遅刻した。",
+    "underline": "ねぼう",
+    "choices": [
+      "官坊",
+      "富坊",
+      "寂坊",
+      "寝坊"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH06-M2-08",
+    "chapter": 6,
+    "kanji_range": "349-420",
+    "mondai": 2,
+    "no": 8,
+    "sentence": "彼は殺人の容疑でけいさつに逮捕された。",
+    "underline": "けいさつ",
+    "choices": [
+      "警察",
+      "警官",
+      "警備",
+      "警告"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH06-M2-09",
+    "chapter": 6,
+    "kanji_range": "349-420",
+    "mondai": 2,
+    "no": 9,
+    "sentence": "強い風で髪の毛がみだれてしまった。",
+    "underline": "みだれて",
+    "choices": [
+      "暴れて",
+      "恐れて",
+      "壊れて",
+      "乱れて"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH06-M2-10",
+    "chapter": 6,
+    "kanji_range": "349-420",
+    "mondai": 2,
+    "no": 10,
+    "sentence": "新郎と新婦は結婚式でゆびわを交換した。",
+    "underline": "ゆびわ",
+    "choices": [
+      "指輪",
+      "指軒",
+      "指較",
+      "指軟"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH06-M3-01",
+    "chapter": 6,
+    "kanji_range": "349-420",
+    "mondai": 3,
+    "no": 1,
+    "sentence": "柔軟",
+    "underline": null,
+    "choices": [
+      "じゅうなん",
+      "じゅうねん",
+      "じゅなん",
+      "じゅねん"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH06-M3-02",
+    "chapter": 6,
+    "kanji_range": "349-420",
+    "mondai": 3,
+    "no": 2,
+    "sentence": "歓迎",
+    "underline": null,
+    "choices": [
+      "かんけい",
+      "かんげい",
+      "かんえい",
+      "はんえい"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH06-M3-03",
+    "chapter": 6,
+    "kanji_range": "349-420",
+    "mondai": 3,
+    "no": 3,
+    "sentence": "幼い",
+    "underline": null,
+    "choices": [
+      "ゆるい",
+      "せまい",
+      "かたい",
+      "おさない"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH06-M3-04",
+    "chapter": 6,
+    "kanji_range": "349-420",
+    "mondai": 3,
+    "no": 4,
+    "sentence": "軒並み",
+    "underline": null,
+    "choices": [
+      "のきなみ",
+      "まちなみ",
+      "あしなみ",
+      "せけんなみ"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH06-M3-05",
+    "chapter": 6,
+    "kanji_range": "349-420",
+    "mondai": 3,
+    "no": 5,
+    "sentence": "単純",
+    "underline": null,
+    "choices": [
+      "たんしゅん",
+      "だんしゅん",
+      "たんじゅん",
+      "たんちゅん"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH06-M3-06",
+    "chapter": 6,
+    "kanji_range": "349-420",
+    "mondai": 3,
+    "no": 6,
+    "sentence": "内緒",
+    "underline": null,
+    "choices": [
+      "うちなお",
+      "うちしょ",
+      "ないちょ",
+      "ないしょ"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH06-M3-07",
+    "chapter": 6,
+    "kanji_range": "349-420",
+    "mondai": 3,
+    "no": 7,
+    "sentence": "緩やか",
+    "underline": null,
+    "choices": [
+      "おだやか",
+      "なごやか",
+      "ゆるやか",
+      "はなやか"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH06-M3-08",
+    "chapter": 6,
+    "kanji_range": "349-420",
+    "mondai": 3,
+    "no": 8,
+    "sentence": "印刷",
+    "underline": null,
+    "choices": [
+      "いんさ",
+      "いんさつ",
+      "いんそつ",
+      "いんせつ"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH06-M3-09",
+    "chapter": 6,
+    "kanji_range": "349-420",
+    "mondai": 3,
+    "no": 9,
+    "sentence": "逆らう",
+    "underline": null,
+    "choices": [
+      "さからう",
+      "わずらう",
+      "きらう",
+      "ねらう"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH06-M3-10",
+    "chapter": 6,
+    "kanji_range": "349-420",
+    "mondai": 3,
+    "no": 10,
+    "sentence": "快適",
+    "underline": null,
+    "choices": [
+      "かいて",
+      "かいで",
+      "かいでき",
+      "かいてき"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH06-M4-01",
+    "chapter": 6,
+    "kanji_range": "349-420",
+    "mondai": 4,
+    "no": 1,
+    "sentence": "税金をおさめる",
+    "underline": "おさめる",
+    "choices": [
+      "勧める",
+      "締める",
+      "縮める",
+      "納める"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH06-M4-02",
+    "chapter": 6,
+    "kanji_range": "349-420",
+    "mondai": 4,
+    "no": 2,
+    "sentence": "財産をひきつぐ",
+    "underline": "ひきつぐ",
+    "choices": [
+      "引き緒ぐ",
+      "引き緑ぐ",
+      "引き継ぐ",
+      "引き繰ぐ"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH06-M4-03",
+    "chapter": 6,
+    "kanji_range": "349-420",
+    "mondai": 4,
+    "no": 3,
+    "sentence": "セーターをあむ",
+    "underline": "あむ",
+    "choices": [
+      "編む",
+      "縮む",
+      "刻む",
+      "頼む"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH06-M4-04",
+    "chapter": 6,
+    "kanji_range": "349-420",
+    "mondai": 4,
+    "no": 4,
+    "sentence": "洗濯物をほす",
+    "underline": "ほす",
+    "choices": [
+      "訳す",
+      "干す",
+      "刺す",
+      "乱す"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH06-M4-05",
+    "chapter": 6,
+    "kanji_range": "349-420",
+    "mondai": 4,
+    "no": 5,
+    "sentence": "文章をてんさくする",
+    "underline": "てんさく",
+    "choices": [
+      "添削",
+      "添刷",
+      "添刺",
+      "添刻"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH06-M4-06",
+    "chapter": 6,
+    "kanji_range": "349-420",
+    "mondai": 4,
+    "no": 6,
+    "sentence": "きかくを立てる",
+    "underline": "きかく",
+    "choices": [
+      "絵画",
+      "漫画",
+      "録画",
+      "企画"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH06-M4-07",
+    "chapter": 6,
+    "kanji_range": "349-420",
+    "mondai": 4,
+    "no": 7,
+    "sentence": "意見をのべる",
+    "underline": "のべる",
+    "choices": [
+      "延べる",
+      "伸べる",
+      "述べる",
+      "並べる"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH06-M4-08",
+    "chapter": 6,
+    "kanji_range": "349-420",
+    "mondai": 4,
+    "no": 8,
+    "sentence": "道にまよう",
+    "underline": "まよう",
+    "choices": [
+      "迷う",
+      "敬う",
+      "添う",
+      "構う"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH06-M4-09",
+    "chapter": 6,
+    "kanji_range": "349-420",
+    "mondai": 4,
+    "no": 9,
+    "sentence": "目標をたっせいする",
+    "underline": "たっせい",
+    "choices": [
+      "構成",
+      "達成",
+      "育成",
+      "形成"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH06-M4-10",
+    "chapter": 6,
+    "kanji_range": "349-420",
+    "mondai": 4,
+    "no": 10,
+    "sentence": "職につく",
+    "underline": "つく",
+    "choices": [
+      "突く",
+      "導く",
+      "招く",
+      "就く"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH07-M1-01",
+    "chapter": 7,
+    "kanji_range": "421-492",
+    "mondai": 1,
+    "no": 1,
+    "sentence": "手を洗うなどインフルエンザの感染予防対策をしっかりしましょう。",
+    "underline": "対策",
+    "choices": [
+      "たいせい",
+      "たいさく",
+      "たいしょう",
+      "たいそう"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH07-M1-02",
+    "chapter": 7,
+    "kanji_range": "421-492",
+    "mondai": 1,
+    "no": 2,
+    "sentence": "人事評価は平等に行われるべきだ。",
+    "underline": "平等",
+    "choices": [
+      "へいとう",
+      "へいどう",
+      "びょうとう",
+      "びょうどう"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH07-M1-03",
+    "chapter": 7,
+    "kanji_range": "421-492",
+    "mondai": 1,
+    "no": 3,
+    "sentence": "タンパク質が筋肉づくりに効果的だと言われている。",
+    "underline": "筋肉",
+    "choices": [
+      "きんにく",
+      "けんにく",
+      "すしにく",
+      "すじにく"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH07-M1-04",
+    "chapter": 7,
+    "kanji_range": "421-492",
+    "mondai": 1,
+    "no": 4,
+    "sentence": "一人一人のお客さまに丁寧に対応する。",
+    "underline": "丁寧",
+    "choices": [
+      "ていね",
+      "ていねい",
+      "ちょうね",
+      "ちょうねい"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH07-M1-05",
+    "chapter": 7,
+    "kanji_range": "421-492",
+    "mondai": 1,
+    "no": 5,
+    "sentence": "授業中に居眠りをして先生に注意された。",
+    "underline": "居眠り",
+    "choices": [
+      "えねいり",
+      "いねいり",
+      "いねむり",
+      "えねむり"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH07-M1-06",
+    "chapter": 7,
+    "kanji_range": "421-492",
+    "mondai": 1,
+    "no": 6,
+    "sentence": "雲が白くて羊の群れのように見える。",
+    "underline": "群れ",
+    "choices": [
+      "やぶれ",
+      "おそれ",
+      "くれ",
+      "むれ"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH07-M1-07",
+    "chapter": 7,
+    "kanji_range": "421-492",
+    "mondai": 1,
+    "no": 7,
+    "sentence": "窓から見える景色がとてもきれいだ。",
+    "underline": "景色",
+    "choices": [
+      "けいしき",
+      "けしき",
+      "けいいろ",
+      "けいろ"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH07-M1-08",
+    "chapter": 7,
+    "kanji_range": "421-492",
+    "mondai": 1,
+    "no": 8,
+    "sentence": "この漫画は日本だけでなく、海外でも出版されている。",
+    "underline": "出版",
+    "choices": [
+      "しゅつはん",
+      "しゅっぱん",
+      "しゅっばん",
+      "しゅはん"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH07-M1-09",
+    "chapter": 7,
+    "kanji_range": "421-492",
+    "mondai": 1,
+    "no": 9,
+    "sentence": "会社を辞めて育児に専念する。",
+    "underline": "育児",
+    "choices": [
+      "ゆじ",
+      "ゆに",
+      "いくじ",
+      "いくに"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH07-M1-10",
+    "chapter": 7,
+    "kanji_range": "421-492",
+    "mondai": 1,
+    "no": 10,
+    "sentence": "この植物は日本列島に広く分布している。",
+    "underline": "分布",
+    "choices": [
+      "ぶんぷ",
+      "ふんふ",
+      "ふんぷ",
+      "ぶんふ"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH07-M2-01",
+    "chapter": 7,
+    "kanji_range": "421-492",
+    "mondai": 2,
+    "no": 1,
+    "sentence": "会社の経営がきびしく、今年は賞与が出なかった。",
+    "underline": "きびしく",
+    "choices": [
+      "厳しく",
+      "等しく",
+      "著しく",
+      "寂しく"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH07-M2-02",
+    "chapter": 7,
+    "kanji_range": "421-492",
+    "mondai": 2,
+    "no": 2,
+    "sentence": "木炭が燃え尽きてはいになる。",
+    "underline": "はい",
+    "choices": [
+      "岸",
+      "床",
+      "舟",
+      "灰"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH07-M2-03",
+    "chapter": 7,
+    "kanji_range": "421-492",
+    "mondai": 2,
+    "no": 3,
+    "sentence": "営業職を希望していないのに、営業部にはいぞくされた。",
+    "underline": "はいぞく",
+    "choices": [
+      "配層",
+      "配属",
+      "配居",
+      "配展"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH07-M2-04",
+    "chapter": 7,
+    "kanji_range": "421-492",
+    "mondai": 2,
+    "no": 4,
+    "sentence": "地震の被害を受けた建物のふっきゅう工事が来月から行われる。",
+    "underline": "ふっきゅう",
+    "choices": [
+      "復習",
+      "復興",
+      "復旧",
+      "復活"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH07-M2-05",
+    "chapter": 7,
+    "kanji_range": "421-492",
+    "mondai": 2,
+    "no": 5,
+    "sentence": "飛行機は強風のためけっこうした。",
+    "underline": "けっこう",
+    "choices": [
+      "欠般",
+      "欠航",
+      "欠舟",
+      "欠船"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH07-M2-06",
+    "chapter": 7,
+    "kanji_range": "421-492",
+    "mondai": 2,
+    "no": 6,
+    "sentence": "手紙をふうとうに入れてポストに投函する。",
+    "underline": "ふうとう",
+    "choices": [
+      "封筒",
+      "封筋",
+      "封符",
+      "封箱"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH07-M2-07",
+    "chapter": 7,
+    "kanji_range": "421-492",
+    "mondai": 2,
+    "no": 7,
+    "sentence": "温度が高いほど水のじょうはつが激しい。",
+    "underline": "じょうはつ",
+    "choices": [
+      "荒発",
+      "著発",
+      "幕発",
+      "蒸発"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH07-M2-08",
+    "chapter": 7,
+    "kanji_range": "421-492",
+    "mondai": 2,
+    "no": 8,
+    "sentence": "毎日しんせんな野菜や果物を食べるようにしている。",
+    "underline": "しんせん",
+    "choices": [
+      "新靴",
+      "新革",
+      "新鮮",
+      "新羊"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH07-M2-09",
+    "chapter": 7,
+    "kanji_range": "421-492",
+    "mondai": 2,
+    "no": 9,
+    "sentence": "経済のはってんには適切な経済政策が必要だ。",
+    "underline": "はってん",
+    "choices": [
+      "発展",
+      "発達",
+      "発射",
+      "発症"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH07-M2-10",
+    "chapter": 7,
+    "kanji_range": "421-492",
+    "mondai": 2,
+    "no": 10,
+    "sentence": "畑がイノシシにあらされて作物が全部だめになった。",
+    "underline": "あらされて",
+    "choices": [
+      "暮らされて",
+      "照らされて",
+      "散らされて",
+      "荒らされて"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH07-M3-01",
+    "chapter": 7,
+    "kanji_range": "421-492",
+    "mondai": 3,
+    "no": 1,
+    "sentence": "軍事",
+    "underline": null,
+    "choices": [
+      "くんじ",
+      "ぐんじ",
+      "くんち",
+      "ぐんち"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH07-M3-02",
+    "chapter": 7,
+    "kanji_range": "421-492",
+    "mondai": 3,
+    "no": 2,
+    "sentence": "即刻",
+    "underline": null,
+    "choices": [
+      "そつこく",
+      "そっこく",
+      "そこく",
+      "そごく"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH07-M3-03",
+    "chapter": 7,
+    "kanji_range": "421-492",
+    "mondai": 3,
+    "no": 3,
+    "sentence": "模範",
+    "underline": null,
+    "choices": [
+      "もはん",
+      "もばん",
+      "もくはん",
+      "もっぱん"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH07-M3-04",
+    "chapter": 7,
+    "kanji_range": "421-492",
+    "mondai": 3,
+    "no": 4,
+    "sentence": "国籍",
+    "underline": null,
+    "choices": [
+      "くにせき",
+      "こせき",
+      "こっせき",
+      "こくせき"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH07-M3-05",
+    "chapter": 7,
+    "kanji_range": "421-492",
+    "mondai": 3,
+    "no": 5,
+    "sentence": "著しい",
+    "underline": null,
+    "choices": [
+      "はげしい",
+      "ひとしい",
+      "さびしい",
+      "いちじるしい"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH07-M3-06",
+    "chapter": 7,
+    "kanji_range": "421-492",
+    "mondai": 3,
+    "no": 6,
+    "sentence": "薄い",
+    "underline": null,
+    "choices": [
+      "あらい",
+      "こい",
+      "うすい",
+      "ゆるい"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH07-M3-07",
+    "chapter": 7,
+    "kanji_range": "421-492",
+    "mondai": 3,
+    "no": 7,
+    "sentence": "氏名",
+    "underline": null,
+    "choices": [
+      "しめい",
+      "ちめい",
+      "しめん",
+      "ちめん"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH07-M3-08",
+    "chapter": 7,
+    "kanji_range": "421-492",
+    "mondai": 3,
+    "no": 8,
+    "sentence": "症状",
+    "underline": null,
+    "choices": [
+      "せいじょう",
+      "せいちょう",
+      "しょうじょう",
+      "しょうちょう"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH07-M3-09",
+    "chapter": 7,
+    "kanji_range": "421-492",
+    "mondai": 3,
+    "no": 9,
+    "sentence": "診療",
+    "underline": null,
+    "choices": [
+      "しんりょう",
+      "しんさ",
+      "しんだん",
+      "しんさつ"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH07-M3-10",
+    "chapter": 7,
+    "kanji_range": "421-492",
+    "mondai": 3,
+    "no": 10,
+    "sentence": "戸惑う",
+    "underline": null,
+    "choices": [
+      "とまとう",
+      "とまどう",
+      "やとう",
+      "まとう"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH07-M4-01",
+    "chapter": 7,
+    "kanji_range": "421-492",
+    "mondai": 4,
+    "no": 1,
+    "sentence": "手をあげる",
+    "underline": "あげる",
+    "choices": [
+      "焦げる",
+      "挙げる",
+      "曲げる",
+      "拡げる"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH07-M4-02",
+    "chapter": 7,
+    "kanji_range": "421-492",
+    "mondai": 4,
+    "no": 2,
+    "sentence": "力をたくわえる",
+    "underline": "たくわえる",
+    "choices": [
+      "蓄える",
+      "与える",
+      "絶える",
+      "超える"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH07-M4-03",
+    "chapter": 7,
+    "kanji_range": "421-492",
+    "mondai": 4,
+    "no": 3,
+    "sentence": "日がくれる",
+    "underline": "くれる",
+    "choices": [
+      "荒れる",
+      "群れる",
+      "枯れる",
+      "暮れる"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH07-M4-04",
+    "chapter": 7,
+    "kanji_range": "421-492",
+    "mondai": 4,
+    "no": 4,
+    "sentence": "歯をみがく",
+    "underline": "みがく",
+    "choices": [
+      "突く",
+      "響く",
+      "磨く",
+      "築く"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH07-M4-05",
+    "chapter": 7,
+    "kanji_range": "421-492",
+    "mondai": 4,
+    "no": 5,
+    "sentence": "従業員をやとう",
+    "underline": "やとう",
+    "choices": [
+      "雇う",
+      "占う",
+      "従う",
+      "伺う"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH07-M4-06",
+    "chapter": 7,
+    "kanji_range": "421-492",
+    "mondai": 4,
+    "no": 6,
+    "sentence": "影響をあたえる",
+    "underline": "あたえる",
+    "choices": [
+      "蓄える",
+      "与える",
+      "燃える",
+      "替える"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH07-M4-07",
+    "chapter": 7,
+    "kanji_range": "421-492",
+    "mondai": 4,
+    "no": 7,
+    "sentence": "部屋をかたづける",
+    "underline": "かたづける",
+    "choices": [
+      "戸付ける",
+      "令付ける",
+      "革付ける",
+      "片付ける"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH07-M4-08",
+    "chapter": 7,
+    "kanji_range": "421-492",
+    "mondai": 4,
+    "no": 8,
+    "sentence": "くつをはく",
+    "underline": "くつ",
+    "choices": [
+      "革",
+      "靴",
+      "令",
+      "齢"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH07-M4-09",
+    "chapter": 7,
+    "kanji_range": "421-492",
+    "mondai": 4,
+    "no": 9,
+    "sentence": "高層ビルをきずく",
+    "underline": "きずく",
+    "choices": [
+      "磨く",
+      "響く",
+      "築く",
+      "導く"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH07-M4-10",
+    "chapter": 7,
+    "kanji_range": "421-492",
+    "mondai": 4,
+    "no": 10,
+    "sentence": "けつあつを測る",
+    "underline": "けつあつ",
+    "choices": [
+      "血圧",
+      "血液",
+      "血管",
+      "血筋"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH08-M1-01",
+    "chapter": 8,
+    "kanji_range": "493-550",
+    "mondai": 1,
+    "no": 1,
+    "sentence": "先週、友達と博物館に行った。",
+    "underline": "博物館",
+    "choices": [
+      "はくものかん",
+      "はくぶつかん",
+      "はかぶつかん",
+      "はっものかん"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH08-M1-02",
+    "chapter": 8,
+    "kanji_range": "493-550",
+    "mondai": 1,
+    "no": 2,
+    "sentence": "彼は甘いものが好きだ。",
+    "underline": "甘い",
+    "choices": [
+      "からい",
+      "にがい",
+      "うまい",
+      "あまい"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH08-M1-03",
+    "chapter": 8,
+    "kanji_range": "493-550",
+    "mondai": 1,
+    "no": 3,
+    "sentence": "武士に関する文章を読んだ。",
+    "underline": "文章",
+    "choices": [
+      "ぶんしょう",
+      "ふんしょう",
+      "ぶんじょう",
+      "ふんじょう"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH08-M1-04",
+    "chapter": 8,
+    "kanji_range": "493-550",
+    "mondai": 1,
+    "no": 4,
+    "sentence": "ピアノを弾けるようになるには、努力しなければならない。",
+    "underline": "弾ける",
+    "choices": [
+      "たたける",
+      "ひける",
+      "なける",
+      "たける"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH08-M1-05",
+    "chapter": 8,
+    "kanji_range": "493-550",
+    "mondai": 1,
+    "no": 5,
+    "sentence": "このキノコには毒があると言われている。",
+    "underline": "毒",
+    "choices": [
+      "はり",
+      "とげ",
+      "どく",
+      "さら"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH08-M1-06",
+    "chapter": 8,
+    "kanji_range": "493-550",
+    "mondai": 1,
+    "no": 6,
+    "sentence": "俳句の本を三冊持っている。",
+    "underline": "三冊",
+    "choices": [
+      "みっつ",
+      "さんぼん",
+      "さんほん",
+      "さんさつ"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH08-M1-07",
+    "chapter": 8,
+    "kanji_range": "493-550",
+    "mondai": 1,
+    "no": 7,
+    "sentence": "我々の目的は利益を上げることだ。",
+    "underline": "我々",
+    "choices": [
+      "これこれ",
+      "かれかれ",
+      "ひとびと",
+      "われわれ"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH08-M1-08",
+    "chapter": 8,
+    "kanji_range": "493-550",
+    "mondai": 1,
+    "no": 8,
+    "sentence": "大事な契約書がなかなか届かない。",
+    "underline": "契約書",
+    "choices": [
+      "けいやくしょ",
+      "ていやくしょ",
+      "めいやくしょ",
+      "そうやくしょ"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH08-M1-09",
+    "chapter": 8,
+    "kanji_range": "493-550",
+    "mondai": 1,
+    "no": 9,
+    "sentence": "あそこの赤い髪の女性は私の双子の姉だ。",
+    "underline": "髪",
+    "choices": [
+      "はね",
+      "かみ",
+      "ふく",
+      "くつ"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH08-M1-10",
+    "chapter": 8,
+    "kanji_range": "493-550",
+    "mondai": 1,
+    "no": 10,
+    "sentence": "江戸時代の皿に興味がある。",
+    "underline": "興味",
+    "choices": [
+      "うまみ",
+      "こうみ",
+      "しゅみ",
+      "きょうみ"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH08-M2-01",
+    "chapter": 8,
+    "kanji_range": "493-550",
+    "mondai": 2,
+    "no": 1,
+    "sentence": "店長のしょうにんがないと、商品が発注できない。",
+    "underline": "しょうにん",
+    "choices": [
+      "承認",
+      "承任",
+      "照認",
+      "商任"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH08-M2-02",
+    "chapter": 8,
+    "kanji_range": "493-550",
+    "mondai": 2,
+    "no": 2,
+    "sentence": "この店は品ぞろえがほうふだ。",
+    "underline": "ほうふ",
+    "choices": [
+      "豊夫",
+      "富豊",
+      "方富",
+      "豊富"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH08-M2-03",
+    "chapter": 8,
+    "kanji_range": "493-550",
+    "mondai": 2,
+    "no": 3,
+    "sentence": "家のしゅういに木を植えた。",
+    "underline": "しゅうい",
+    "choices": [
+      "週囲",
+      "周囲",
+      "州井",
+      "集井"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH08-M2-04",
+    "chapter": 8,
+    "kanji_range": "493-550",
+    "mondai": 2,
+    "no": 4,
+    "sentence": "昨日買ったばかりの携帯電話がぬすまれた。",
+    "underline": "ぬすまれた",
+    "choices": [
+      "盗れた",
+      "盗まれた",
+      "失れた",
+      "失まれた"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH08-M2-05",
+    "chapter": 8,
+    "kanji_range": "493-550",
+    "mondai": 2,
+    "no": 5,
+    "sentence": "平和がえいえんに続きますように。",
+    "underline": "えいえん",
+    "choices": [
+      "泳遠",
+      "水遠",
+      "永遠",
+      "氷遠"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH08-M2-06",
+    "chapter": 8,
+    "kanji_range": "493-550",
+    "mondai": 2,
+    "no": 6,
+    "sentence": "きょくたんな例を挙げて説明する。",
+    "underline": "きょくたん",
+    "choices": [
+      "極端",
+      "局端",
+      "極単",
+      "局単"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH08-M2-07",
+    "chapter": 8,
+    "kanji_range": "493-550",
+    "mondai": 2,
+    "no": 7,
+    "sentence": "えいようバランスの良い食事を作る。",
+    "underline": "えいよう",
+    "choices": [
+      "宋溶",
+      "栄溶",
+      "宋養",
+      "栄養"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH08-M2-08",
+    "chapter": 8,
+    "kanji_range": "493-550",
+    "mondai": 2,
+    "no": 8,
+    "sentence": "3歳の娘にどうわを読んであげる。",
+    "underline": "どうわ",
+    "choices": [
+      "甘話",
+      "同羽",
+      "童話",
+      "動和"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH08-M2-09",
+    "chapter": 8,
+    "kanji_range": "493-550",
+    "mondai": 2,
+    "no": 9,
+    "sentence": "消防士のためのしせつを建設する。",
+    "underline": "しせつ",
+    "choices": [
+      "施投",
+      "施設",
+      "施没",
+      "施股"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH08-M2-10",
+    "chapter": 8,
+    "kanji_range": "493-550",
+    "mondai": 2,
+    "no": 10,
+    "sentence": "食中毒で入院した友達のおみまいに行く。",
+    "underline": "おみまい",
+    "choices": [
+      "お見毎",
+      "お美毎",
+      "お見舞い",
+      "お美舞い"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH08-M3-01",
+    "chapter": 8,
+    "kanji_range": "493-550",
+    "mondai": 3,
+    "no": 1,
+    "sentence": "氷",
+    "underline": null,
+    "choices": [
+      "こうり",
+      "こおり",
+      "こんり",
+      "こっり"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH08-M3-02",
+    "chapter": 8,
+    "kanji_range": "493-550",
+    "mondai": 3,
+    "no": 2,
+    "sentence": "畳",
+    "underline": null,
+    "choices": [
+      "よろしい",
+      "たたみ",
+      "たんぼ",
+      "たなだ"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH08-M3-03",
+    "chapter": 8,
+    "kanji_range": "493-550",
+    "mondai": 3,
+    "no": 3,
+    "sentence": "翌日",
+    "underline": null,
+    "choices": [
+      "たつび",
+      "たっか",
+      "よくにち",
+      "よくじつ"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH08-M3-04",
+    "chapter": 8,
+    "kanji_range": "493-550",
+    "mondai": 3,
+    "no": 4,
+    "sentence": "互い",
+    "underline": null,
+    "choices": [
+      "たがい",
+      "ちがい",
+      "おもい",
+      "よい"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH08-M3-05",
+    "chapter": 8,
+    "kanji_range": "493-550",
+    "mondai": 3,
+    "no": 5,
+    "sentence": "本州",
+    "underline": null,
+    "choices": [
+      "ほんす",
+      "ほんせい",
+      "ほんしゅう",
+      "ほんぶ"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH08-M3-06",
+    "chapter": 8,
+    "kanji_range": "493-550",
+    "mondai": 3,
+    "no": 6,
+    "sentence": "羽",
+    "underline": null,
+    "choices": [
+      "てい",
+      "む",
+      "とり",
+      "はね"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH08-M3-07",
+    "chapter": 8,
+    "kanji_range": "493-550",
+    "mondai": 3,
+    "no": 7,
+    "sentence": "異なる",
+    "underline": null,
+    "choices": [
+      "いなる",
+      "ことなる",
+      "おとなる",
+      "みなる"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH08-M3-08",
+    "chapter": 8,
+    "kanji_range": "493-550",
+    "mondai": 3,
+    "no": 8,
+    "sentence": "麦",
+    "underline": null,
+    "choices": [
+      "むぎ",
+      "こめ",
+      "そば",
+      "こな"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH08-M3-09",
+    "chapter": 8,
+    "kanji_range": "493-550",
+    "mondai": 3,
+    "no": 9,
+    "sentence": "兵器",
+    "underline": null,
+    "choices": [
+      "へいき",
+      "ようき",
+      "とうき",
+      "しき"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH08-M3-10",
+    "chapter": 8,
+    "kanji_range": "493-550",
+    "mondai": 3,
+    "no": 10,
+    "sentence": "競争",
+    "underline": null,
+    "choices": [
+      "とんそう",
+      "とうそう",
+      "きょうそう",
+      "こうそう"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH08-M4-01",
+    "chapter": 8,
+    "kanji_range": "493-550",
+    "mondai": 4,
+    "no": 1,
+    "sentence": "たまご料理を作る",
+    "underline": "たまご",
+    "choices": [
+      "卯",
+      "卵",
+      "王子",
+      "球子"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH08-M4-02",
+    "chapter": 8,
+    "kanji_range": "493-550",
+    "mondai": 4,
+    "no": 2,
+    "sentence": "部屋をせいりする",
+    "underline": "せいり",
+    "choices": [
+      "整理",
+      "正理",
+      "制理",
+      "成理"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH08-M4-03",
+    "chapter": 8,
+    "kanji_range": "493-550",
+    "mondai": 4,
+    "no": 3,
+    "sentence": "試合がしゅうりょうする",
+    "underline": "しゅうりょう",
+    "choices": [
+      "修子",
+      "終子",
+      "修了",
+      "終了"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH08-M4-04",
+    "chapter": 8,
+    "kanji_range": "493-550",
+    "mondai": 4,
+    "no": 4,
+    "sentence": "こうしんりょうを買う",
+    "underline": "こうしんりょう",
+    "choices": [
+      "好辛料",
+      "好幸料",
+      "香辛料",
+      "香幸料"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "N2K-CH08-M4-05",
+    "chapter": 8,
+    "kanji_range": "493-550",
+    "mondai": 4,
+    "no": 5,
+    "sentence": "畑をたがやす",
+    "underline": "たがやす",
+    "choices": [
+      "耕す",
+      "籍す",
+      "構す",
+      "耗す"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH08-M4-06",
+    "chapter": 8,
+    "kanji_range": "493-550",
+    "mondai": 4,
+    "no": 6,
+    "sentence": "ゆうきを出す",
+    "underline": "ゆうき",
+    "choices": [
+      "勇気",
+      "優季",
+      "有希",
+      "夕義"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "N2K-CH08-M4-07",
+    "chapter": 8,
+    "kanji_range": "493-550",
+    "mondai": 4,
+    "no": 7,
+    "sentence": "こうぎを聴く",
+    "underline": "こうぎ",
+    "choices": [
+      "広儀",
+      "後儀",
+      "高義",
+      "講義"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH08-M4-08",
+    "chapter": 8,
+    "kanji_range": "493-550",
+    "mondai": 4,
+    "no": 8,
+    "sentence": "しんがくりつを上げる",
+    "underline": "しんがくりつ",
+    "choices": [
+      "新学立",
+      "新学章",
+      "進学卒",
+      "進学率"
+    ],
+    "answer": 4
+  },
+  {
+    "id": "N2K-CH08-M4-09",
+    "chapter": 8,
+    "kanji_range": "493-550",
+    "mondai": 4,
+    "no": 9,
+    "sentence": "親をなくす",
+    "underline": "なくす",
+    "choices": [
+      "消くす",
+      "亡くす",
+      "失くす",
+      "死くす"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "N2K-CH08-M4-10",
+    "chapter": 8,
+    "kanji_range": "493-550",
+    "mondai": 4,
+    "no": 10,
+    "sentence": "注文をうけたまわる",
+    "underline": "うけたまわる",
+    "choices": [
+      "承る",
+      "劣る",
+      "触る",
+      "余る"
+    ],
+    "answer": 1
+  }
+]
