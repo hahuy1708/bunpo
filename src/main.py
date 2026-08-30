@@ -50,4 +50,5 @@ def build(output_path: Path = OUTPUT_PATH) -> Path:
 
 if __name__ == "__main__":
     path = build()
-    print(f"Built {path}")
+    # The default Windows cp1252 console cannot encode the Japanese output filename.
+    print("Built grammar package")
